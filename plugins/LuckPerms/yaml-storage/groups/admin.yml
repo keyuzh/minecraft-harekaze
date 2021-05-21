@@ -1,0 +1,5 @@
+name: admin
+permissions:
+- luckperms.*
+- minecraft.*
+- worldguard.*

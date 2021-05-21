@@ -1,0 +1,8 @@
+uuid: 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+name: tanyaodora12
+primary-group: default
+permissions:
+- luckperms.*
+parents:
+- admin
+- default
