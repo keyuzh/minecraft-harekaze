@@ -1,0 +1,224 @@
+[00:00:40] [Server thread/INFO]: LSFG issued server command: /time set 1
+[00:00:40] [Server thread/INFO]: [LSFG: Set the time to 1]
+[00:03:28] [Server thread/INFO]: LSFG was slain by Enderman
+[00:03:38] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[00:03:38] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[00:04:04] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[00:04:04] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[00:07:43] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:water_bucket
+[00:07:43] [Server thread/INFO]: [LSFG: Gave 1 [Water Bucket] to LSFG]
+[00:07:50] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:compass
+[00:07:50] [Server thread/INFO]: [LSFG: Gave 1 [Compass] to LSFG]
+[00:08:00] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[00:08:00] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[00:08:36] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[00:08:36] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[00:31:22] [Server thread/INFO]: LSFG issued server command: /time set 1
+[00:31:22] [Server thread/INFO]: [LSFG: Set the time to 1]
+[00:42:08] [Server thread/INFO]: LSFG issued server command: /time set 1
+[00:42:08] [Server thread/INFO]: [LSFG: Set the time to 1]
+[00:44:21] [Server thread/INFO]: LSFG issued server command: /gamemode spectatpr
+[00:44:28] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[00:44:28] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[00:44:43] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[00:44:43] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[00:52:55] [Server thread/INFO]: LSFG issued server command: /time set 1
+[00:52:55] [Server thread/INFO]: [LSFG: Set the time to 1]
+[00:59:01] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_log 64
+[00:59:01] [Server thread/INFO]: [LSFG: Gave 64 [Oak Log] to LSFG]
+[01:03:52] [Server thread/INFO]: LSFG issued server command: /time set 1
+[01:03:52] [Server thread/INFO]: [LSFG: Set the time to 1]
+[01:04:12] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[01:04:12] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[01:04:30] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[01:04:30] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[01:10:29] [Server thread/INFO]: LSFG issued server command: /save-all
+[01:10:29] [Server thread/INFO]: [LSFG: Saved the game]
+[01:10:40] [Server thread/INFO]: LSFG issued server command: /
+[01:10:44] [Server thread/INFO]: LSFG lost connection: Disconnected
+[01:10:44] [Server thread/INFO]: LSFG left the game
+[10:13:27] [User Authenticator #8/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[10:13:27] [Server thread/INFO]: 1XD233 joined the game
+[10:13:27] [Server thread/INFO]: 1XD233[/172.88.109.119:50448] logged in with entity id 48486 at ([world]58.632974517526165, 100.91890303769101, 2.8580643167907933)
+[10:16:35] [Server thread/INFO]: 1XD233 issued server command: /clear 1XD233
+[10:16:35] [Server thread/INFO]: [1XD233: Removed 468 items from player 1XD233]
+[11:01:11] [Server thread/INFO]: 1XD233 issued server command: /clear 1XD233
+[11:01:11] [Server thread/INFO]: [1XD233: Removed 20 items from player 1XD233]
+[11:11:05] [Server thread/INFO]: 1XD233 issued server command: /clear 1XD233
+[11:11:05] [Server thread/INFO]: [1XD233: Removed 8 items from player 1XD233]
+[11:27:50] [Server thread/INFO]: 1XD233 issued server command: /gamemode survival
+[11:27:50] [Server thread/INFO]: [1XD233: Set own game mode to Survival Mode]
+[11:28:05] [Server thread/INFO]: 1XD233 issued server command: /gamemode creative
+[11:28:05] [Server thread/INFO]: [1XD233: Set own game mode to Creative Mode]
+[11:28:42] [Server thread/INFO]: 1XD233 issued server command: /gamemode survival
+[11:28:42] [Server thread/INFO]: [1XD233: Set own game mode to Survival Mode]
+[11:29:36] [Server thread/INFO]: 1XD233 has made the advancement [Suit Up]
+[11:41:33] [Server thread/INFO]: 1XD233 issued server command: /gamemode creative
+[11:41:33] [Server thread/INFO]: [1XD233: Set own game mode to Creative Mode]
+[11:48:11] [Server thread/INFO]: 1XD233 issued server command: /gamemode surviva;
+[11:48:16] [Server thread/INFO]: 1XD233 issued server command: /gamemode survival
+[11:48:16] [Server thread/INFO]: [1XD233: Set own game mode to Survival Mode]
+[11:48:46] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[11:48:46] [Server thread/INFO]: 1XD233 left the game
+[17:02:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:07:59] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:08:05] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:08:09] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:09:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:09:57] [Server thread/INFO]: op<--[HERE]
+[17:11:03] [Server thread/INFO]: No player was found
+[17:11:09] [Server thread/INFO]: Made LSFG no longer a server operator
+[17:11:24] [Server thread/INFO]: Made LSFG a server operator
+[18:27:14] [User Authenticator #9/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[18:27:14] [Server thread/INFO]: LSFG joined the game
+[18:27:14] [Server thread/INFO]: LSFG[/104.172.46.77:62212] logged in with entity id 60141 at ([world]-221.48478753631477, 72.5, 86.75725196395938)
+[18:28:16] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 20
+[18:28:16] [Server thread/INFO]: [LSFG: Gave 20 [Grass Block] to LSFG]
+[18:36:11] [Server thread/INFO]: LSFG has made the advancement [Best Friends Forever]
+[18:37:40] [Server thread/INFO]: LSFG fell from a high place
+[18:39:40] [Server thread/INFO]: LSFG has made the advancement [The Parrots and the Bats]
+[18:40:48] [User Authenticator #10/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[18:40:48] [Server thread/INFO]: 1XD233 joined the game
+[18:40:48] [Server thread/INFO]: 1XD233[/172.88.109.119:57832] logged in with entity id 62021 at ([world]-29.46248979509393, 69.5625, -5.722974927679907)
+[18:41:08] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[18:41:08] [Server thread/INFO]: 1XD233 left the game
+[18:43:00] [User Authenticator #11/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[18:43:00] [Server thread/INFO]: 1XD233 joined the game
+[18:43:00] [Server thread/INFO]: 1XD233[/172.88.109.119:57858] logged in with entity id 62323 at ([world]-32.27829074153101, 69.0625, -4.989473593342268)
+[18:44:10] [Async Chat Thread - #11/INFO]: <1XD233> ?
+[18:46:00] [Server thread/WARN]: Horse (vehicle of 1XD233) moved wrongly! 0.45360988997384766
+[18:46:07] [Server thread/WARN]: Horse (vehicle of 1XD233) moved wrongly! 0.43806348662280925
+[19:03:41] [Server thread/WARN]: Boat (vehicle of 1XD233) moved wrongly! 0.5
+[19:04:28] [Async Chat Thread - #12/INFO]: <LSFG> you still dont have a house?
+[19:05:13] [Async Chat Thread - #12/INFO]: <1XD233> i have
+[19:06:39] [Async Chat Thread - #13/INFO]: <LSFG> that island?
+[19:07:37] [Async Chat Thread - #13/INFO]: <LSFG> r u a sea turtle
+[19:08:08] [Async Chat Thread - #13/INFO]: <LSFG> i see
+[19:08:15] [Async Chat Thread - #13/INFO]: <LSFG> ur a cheating ass
+[19:08:57] [Async Chat Thread - #13/INFO]: <LSFG> i am about to delete that whole thing
+[19:09:34] [Async Chat Thread - #13/INFO]: <1XD233> 我房子i跟你有jb关系
+[19:10:03] [Async Chat Thread - #13/INFO]: <LSFG> 你去过下界了/
+[19:10:09] [Async Chat Thread - #13/INFO]: <1XD233> 没啊
+[19:10:12] [Async Chat Thread - #13/INFO]: <LSFG> zuo ni ma bi
+[19:10:20] [Async Chat Thread - #13/INFO]: <1XD233> ?
+[19:10:25] [Async Chat Thread - #13/INFO]: <LSFG> nmm shi bu shi ai zheng wan qi le
+[19:10:47] [Async Chat Thread - #13/INFO]: <1XD233> 自己command用得爽不让别人用？
+[19:10:56] [Async Chat Thread - #13/INFO]: <LSFG> wo jiang ping di
+[19:10:58] [Async Chat Thread - #13/INFO]: <1XD233> 这是你的服务器？
+[19:11:05] [Async Chat Thread - #13/INFO]: <LSFG> bu ying xiang you xi ping hen
+[19:11:21] [Async Chat Thread - #13/INFO]: <LSFG> tmd shi kai ge fu lai wan sheng chun de
+[19:11:32] [Async Chat Thread - #13/INFO]: <LSFG> zuo bi hai gei ni lian le?
+[19:11:42] [Async Chat Thread - #13/INFO]: <1XD233> 你没作弊？
+[19:11:55] [Async Chat Thread - #13/INFO]: <LSFG> bu ying xiang you xi ping hen di zuo bi
+[19:11:56] [Async Chat Thread - #13/INFO]: <1XD233> 这木头都是你砍掉的？
+[19:12:05] [Async Chat Thread - #13/INFO]: <1XD233> 别恶心人了
+[19:12:16] [Async Chat Thread - #13/INFO]: <LSFG> fei hua
+[19:12:25] [Async Chat Thread - #13/INFO]: <LSFG> lao zi tm yi ge yi ge kan de
+[19:12:46] [Async Chat Thread - #13/INFO]: <1XD233> 你说是那就是
+[19:13:16] [Async Chat Thread - #13/INFO]: <LSFG> 是不是孤儿
+[19:13:29] [Async Chat Thread - #13/INFO]: <LSFG> 继续找借口啊
+[19:13:38] [Async Chat Thread - #13/INFO]: <1XD233> 谁在找借口啊
+[19:13:46] [Async Chat Thread - #13/INFO]: <LSFG> ？
+[19:13:47] [Async Chat Thread - #13/INFO]: <1XD233> 自己作弊不让别人做
+[19:14:02] [Async Chat Thread - #13/INFO]: <LSFG> 是不是脑残
+[19:14:03] [Async Chat Thread - #13/INFO]: <1XD233> 你恶心人能不能有个度、
+[19:14:09] [Async Chat Thread - #13/INFO]: <LSFG> 要我跟你将第二遍
+[19:14:25] [Async Chat Thread - #13/INFO]: <LSFG> 一个是影响游戏平衡一个不影响
+[19:14:34] [Async Chat Thread - #13/INFO]: <1XD233> 影响尼玛
+[19:14:40] [Async Chat Thread - #13/INFO]: <1XD233> 只有作何没做
+[19:14:45] [Async Chat Thread - #13/INFO]: <LSFG> 你逻辑是不是喂狗了
+[19:14:48] [Async Chat Thread - #13/INFO]: <1XD233> 还分制度
+[19:14:52] [Async Chat Thread - #13/INFO]: <1XD233> 别双标了
+[19:15:04] [Async Chat Thread - #13/INFO]: <LSFG> 双标nm呢
+[19:15:13] [Async Chat Thread - #13/INFO]: <LSFG> 学个新词
+[19:15:19] [Async Chat Thread - #13/INFO]: <LSFG> 一天讲5次是不是
+[19:15:22] [Async Chat Thread - #13/INFO]: <LSFG> 懂不懂什么意思
+[19:15:36] [Async Chat Thread - #13/INFO]: <1XD233> 你充分的解释了那个词的意思
+[19:15:57] [Async Chat Thread - #13/INFO]: <1XD233> 要么都别用command要么都用
+[19:16:20] [Async Chat Thread - #13/INFO]: <1XD233> 别自己用了还搞得跟没有一样
+[19:16:26] [Async Chat Thread - #13/INFO]: <1XD233> 恶心
+[19:16:28] [Async Chat Thread - #13/INFO]: <LSFG> tmd
+[19:16:44] [Async Chat Thread - #13/INFO]: <LSFG> 你脑子灌浓了/
+[19:16:46] [Async Chat Thread - #13/INFO]: <1XD233> 再说了这服务器也不是你开的
+[19:17:00] [Async Chat Thread - #13/INFO]: <1XD233> command也是你先用的
+[19:17:14] [Server thread/INFO]: LSFG was slain by Zombie
+[19:18:15] [Async Chat Thread - #14/INFO]: <LSFG> ni zheng de qu kan kan nao ke yi shen
+[19:18:22] [Async Chat Thread - #14/INFO]: <LSFG> wo command tian di
+[19:18:37] [Async Chat Thread - #14/INFO]: <LSFG> gu er cuang zai jian fang zi
+[19:18:42] [Async Chat Thread - #14/INFO]: <LSFG> xing biao
+[19:18:46] [Async Chat Thread - #14/INFO]: <LSFG> shi ying
+[19:18:57] [Async Chat Thread - #14/INFO]: <LSFG> gei ni lian le ni zai zhe shua
+[19:19:13] [Async Chat Thread - #14/INFO]: <1XD233> 不会打字用拼英？
+[19:19:35] [Server thread/INFO]: LSFG issued server command: /
+[19:19:52] [Async Chat Thread - #14/INFO]: <LSFG> kan ni jiu shi ling lei nt
+[19:22:39] [Async Chat Thread - #15/INFO]: <LSFG> di yi ci jian dao lian pi zm hou de
+[19:22:48] [Async Chat Thread - #15/INFO]: <1XD233> 是你吧
+[19:22:53] [Async Chat Thread - #15/INFO]: <LSFG> ?
+[19:23:06] [Async Chat Thread - #15/INFO]: <LSFG> gu er you lian le/
+[19:24:28] [Server thread/INFO]: LSFG lost connection: Disconnected
+[19:24:28] [Server thread/INFO]: LSFG left the game
+[19:45:06] [User Authenticator #12/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[19:45:06] [Server thread/INFO]: LSFG joined the game
+[19:45:06] [Server thread/INFO]: LSFG[/104.172.46.77:60057] logged in with entity id 75914 at ([world]-184.0621750381092, 71.5625, 46.26783202153574)
+[20:05:57] [User Authenticator #13/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[20:05:57] [Server thread/INFO]: cest_la_vieeee joined the game
+[20:05:57] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:58233] logged in with entity id 79684 at ([world]-218.87389387348156, 72.6183020148442, 129.66593052331325)
+[20:07:43] [Server thread/INFO]: cest_la_vieeee issued server command: /clear
+[20:07:43] [Server thread/INFO]: [cest_la_vieeee: Removed 479 items from player cest_la_vieeee]
+[20:12:23] [Server thread/INFO]: LSFG was blown up by Creeper
+[20:29:44] [Async Chat Thread - #16/INFO]: <LSFG> sleep?
+[20:30:00] [Async Chat Thread - #16/INFO]: <1XD233> sleep
+[20:32:13] [Server thread/INFO]: LSFG has made the advancement [Take Aim]
+[20:32:28] [Server thread/INFO]: cest_la_vieeee has made the advancement [Ol' Betsy]
+[20:40:46] [Async Chat Thread - #17/INFO]: <LSFG> sleep
+[20:40:54] [Async Chat Thread - #17/INFO]: <1XD233> sleep
+[20:42:28] [Async Chat Thread - #18/INFO]: <LSFG> jimmy
+[20:43:36] [Async Chat Thread - #19/INFO]: <LSFG> 那你先退了
+[20:45:43] [Async Chat Thread - #20/INFO]: <LSFG> 你妈哦
+[20:48:05] [Server thread/INFO]: cest_la_vieeee lost connection: You have been idle for too long!
+[20:48:05] [Server thread/INFO]: cest_la_vieeee left the game
+[20:48:58] [Server thread/INFO]: LSFG was blown up by Creeper
+[21:05:36] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[21:05:36] [Server thread/INFO]: 1XD233 left the game
+[21:09:58] [Server thread/INFO]: LSFG lost connection: Disconnected
+[21:09:58] [Server thread/INFO]: LSFG left the game
+[21:47:19] [User Authenticator #14/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[21:47:19] [Server thread/INFO]: cest_la_vieeee joined the game
+[21:47:19] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:60564] logged in with entity id 92174 at ([world]-92.05495160160905, 72.6610393193855, -12.62206926612294)
+[21:49:12] [Server thread/INFO]: cest_la_vieeee issued server command: /clear
+[21:49:12] [Server thread/INFO]: [cest_la_vieeee: Removed 4 items from player cest_la_vieeee]
+[21:49:24] [User Authenticator #15/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[21:49:24] [Server thread/INFO]: 1XD233 joined the game
+[21:49:24] [Server thread/INFO]: 1XD233[/172.88.109.119:59285] logged in with entity id 92495 at ([world]-32.37463028412107, 69.0625, -4.433099167595566)
+[21:50:22] [Server thread/INFO]: 1XD233 issued server command: /teleport cest_la_vieeee
+[21:50:22] [Server thread/INFO]: [1XD233: Teleported 1XD233 to cest_la_vieeee]
+[21:50:22] [Server thread/WARN]: 1XD233 moved too quickly! -13.301545899697977,10.933655521369758,2.057260987594547
+[21:50:53] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[21:50:53] [Server thread/INFO]: 1XD233 left the game
+[21:51:03] [User Authenticator #16/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[21:51:03] [Server thread/INFO]: 1XD233 joined the game
+[21:51:04] [Server thread/INFO]: 1XD233[/172.88.109.119:59295] logged in with entity id 92671 at ([world]-36.16686080687069, 61.305075366014606, -22.525565699396154)
+[21:51:13] [Server thread/INFO]: 1XD233 issued server command: /gamemode spectator
+[21:51:13] [Server thread/INFO]: [1XD233: Set own game mode to Spectator Mode]
+[21:51:34] [Server thread/INFO]: cest_la_vieeee issued server command: /tp cest_la_vieeee 1XD233
+[21:51:34] [Server thread/INFO]: [cest_la_vieeee: Teleported cest_la_vieeee to 1XD233]
+[21:52:56] [Server thread/INFO]: cest_la_vieeee issued server command: /tp cest_la_vieeee 1x`
+[21:52:59] [Server thread/INFO]: cest_la_vieeee issued server command: /tp cest_la_vieeee 1XD233
+[21:52:59] [Server thread/INFO]: [cest_la_vieeee: Teleported cest_la_vieeee to 1XD233]
+[21:54:09] [Server thread/INFO]: 1XD233 issued server command: /gamemode creative
+[21:54:09] [Server thread/INFO]: [1XD233: Set own game mode to Creative Mode]
+[21:56:29] [Server thread/INFO]: cest_la_vieeee has made the advancement [Bring Home the Beacon]
+[21:59:52] [Server thread/INFO]: cest_la_vieeee issued server command: /kill cat
+[22:05:49] [Server thread/INFO]: 1XD233 has made the advancement [Bring Home the Beacon]
+[22:08:19] [Server thread/INFO]: cest_la_vieeee issued server command: /give cest_la_vieeee minecraft:cat_spawn_egg 10000
+[22:08:19] [Server thread/INFO]: [cest_la_vieeee: Gave 10000 [Cat Spawn Egg] to cest_la_vieeee]
+[22:10:31] [Server thread/INFO]: cest_la_vieeee has made the advancement [Hot Stuff]
+[22:10:52] [Server thread/INFO]: cest_la_vieeee lost connection: Disconnected
+[22:10:52] [Server thread/INFO]: cest_la_vieeee left the game
+[22:11:07] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[22:11:07] [Server thread/INFO]: 1XD233 left the game
+[22:23:21] [User Authenticator #17/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[22:23:21] [Server thread/INFO]: cest_la_vieeee joined the game
+[22:23:21] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:63170] logged in with entity id 96028 at ([world]-46.78989184285283, 75.769177031993, -14.248032790833513)
+[22:26:51] [Server thread/INFO]: cest_la_vieeee lost connection: Disconnected
+[22:26:51] [Server thread/INFO]: cest_la_vieeee left the game

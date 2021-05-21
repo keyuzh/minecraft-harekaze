@@ -1,0 +1,474 @@
+[17:36:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:36:26] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:36:27] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:36:27] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:36:27] [Server thread/INFO]: Loading properties
+[17:36:27] [Server thread/INFO]: This server is running Paper version git-Paper-686 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[17:36:27] [Server thread/INFO]: Debug logging is disabled
+[17:36:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:36:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:36:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:27] [Server thread/INFO]: Generating keypair
+[17:36:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:28] [Server thread/INFO]: Using epoll channel type
+[17:36:28] [Server thread/ERROR]: Could not load 'plugins/LuckPerms-Bukkit-5.2.92.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.ExceptionInInitializerError
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:151) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:397) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:305) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.<init>(LPBukkitBootstrap.java:103) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:350) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:642) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:94) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make protected void java.net.URLClassLoader.addURL(java.net.URL) accessible: module java.base does not "opens java.net" to unnamed module @21450594
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:357) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297) ~[?:?]
+	at java.lang.reflect.Method.checkCanSetAccessible(Method.java:199) ~[?:?]
+	at java.lang.reflect.Method.setAccessible(Method.java:193) ~[?:?]
+	at me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader.<clinit>(ReflectionClassLoader.java:53) ~[?:?]
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.<init>(LPBukkitBootstrap.java:103) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:350) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:642) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:94) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+[17:36:28] [Server thread/ERROR]: Could not load 'plugins/worldedit-bukkit-7.2.2-dist.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/ReflectionUtil
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:151) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:397) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:305) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/ReflectionUtil
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getContext(Log4jLoggerFactory.java:42) ~[?:?]
+	at org.apache.logging.log4j.spi.AbstractLoggerAdapter.getLogger(AbstractLoggerAdapter.java:46) ~[patched_1.16.5.jar:git-Paper-686]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getLogger(Log4jLoggerFactory.java:29) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:358) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383) ~[?:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.<clinit>(WorldEditPlugin.java:113) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:466) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+Caused by: java.lang.ClassNotFoundException: org.apache.logging.log4j.util.ReflectionUtil
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:153) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:519) ~[?:?]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getContext(Log4jLoggerFactory.java:42) ~[?:?]
+	at org.apache.logging.log4j.spi.AbstractLoggerAdapter.getLogger(AbstractLoggerAdapter.java:46) ~[patched_1.16.5.jar:git-Paper-686]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getLogger(Log4jLoggerFactory.java:29) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:358) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383) ~[?:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.<clinit>(WorldEditPlugin.java:113) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:466) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+[17:36:28] [Server thread/ERROR]: Could not load 'plugins/worldguard-bukkit-7.0.4.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Please download and install WorldEdit to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[17:36:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:36:28] [Server thread/INFO]: Preparing level "world"
+[17:36:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:36:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:36:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:36:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:28] [Server thread/INFO]: Max TNT Explosions: 1
+[17:36:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:28] [Server thread/INFO]: View Distance: 10
+[17:36:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:28] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:36:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:36:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:36:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:28] [Server thread/INFO]: Max TNT Explosions: 1
+[17:36:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:28] [Server thread/INFO]: View Distance: 10
+[17:36:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:28] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:36:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:36:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:36:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:28] [Server thread/INFO]: Max TNT Explosions: 1
+[17:36:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:28] [Server thread/INFO]: View Distance: 10
+[17:36:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:28] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:36:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[17:36:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:28] [Server thread/INFO]: Time elapsed: 402 ms
+[17:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:36:29] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[17:36:29] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:29] [Server thread/INFO]: Time elapsed: 483 ms
+[17:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:36:29] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[17:36:29] [Server thread/INFO]: Time elapsed: 47 ms
+[17:36:29] [Server thread/INFO]: Starting remote control listener
+[17:36:29] [Server thread/INFO]: Thread RCON Listener started
+[17:36:29] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[17:36:29] [Server thread/INFO]: Running delayed init tasks
+[17:36:29] [Server thread/INFO]: Done (1.806s)! For help, type "help"
+[17:36:29] [Server thread/INFO]: Timings Reset
+[17:36:50] [User Authenticator #1/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:36:50] [Server thread/INFO]: LSFG joined the game
+[17:36:50] [Server thread/INFO]: LSFG[/104.172.46.77:62549] logged in with entity id 258 at ([world]-247.54802186458147, 67.0, 95.47689517525471)
+[17:37:19] [Server thread/INFO]: LSFG issued server command: /fill -237 65 111 -247 70 95 minecraft:dirt
+[17:37:19] [Server thread/INFO]: [LSFG: Successfully filled 1046 blocks]
+[17:37:32] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[17:37:32] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[17:38:22] [Server thread/INFO]: LSFG issued server command: /kick lsfg
+[17:38:22] [Server thread/INFO]: LSFG lost connection: Kicked by an operator
+[17:38:22] [Server thread/INFO]: LSFG left the game
+[17:38:22] [Server thread/INFO]: [LSFG: Kicked LSFG: Kicked by an operator]
+[17:38:25] [User Authenticator #2/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:38:25] [Server thread/INFO]: LSFG joined the game
+[17:38:25] [Server thread/INFO]: LSFG[/104.172.46.77:63051] logged in with entity id 505 at ([world]-247.69999998807907, 69.85348789054251, 95.30000001192093)
+[17:39:15] [Server thread/INFO]: LSFG issued server command: /fill -273 64 111 -274 69 95 dirt
+[17:39:15] [Server thread/INFO]: [LSFG: Successfully filled 204 blocks]
+[17:40:58] [Server thread/INFO]: LSFG issued server command: /fill -271 65 111 -274 71 95 dirt
+[17:40:58] [Server thread/INFO]: [LSFG: Successfully filled 238 blocks]
+[17:42:11] [Server thread/INFO]: LSFG issued server command: /fill -269 65 95 -246 71 111 minecraft:dirt
+[17:42:11] [Server thread/INFO]: [LSFG: Successfully filled 2272 blocks]
+[17:42:27] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[17:42:27] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[17:43:48] [Server thread/INFO]: LSFG issued server command: /fill -239 65 95 -247 72 111 air
+[17:43:48] [Server thread/INFO]: [LSFG: Successfully filled 923 blocks]
+[17:45:10] [Server thread/INFO]: LSFG issued server command: /time set 1
+[17:45:10] [Server thread/INFO]: [LSFG: Set the time to 1]
+[17:47:20] [Server thread/INFO]: LSFG issued server command: /fill -238 65 95 -246 65 117 minecraft:grass_block
+[17:47:20] [Server thread/INFO]: [LSFG: Successfully filled 204 blocks]
+[17:49:30] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[17:49:30] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[17:50:44] [Server thread/INFO]: LSFG issued server command: /fill -227 69 113 -213 65 93 air
+[17:50:44] [Server thread/INFO]: [LSFG: Successfully filled 1078 blocks]
+[17:52:01] [Server thread/INFO]: LSFG issued server command: /fill -212 65 93 -227 65 113 minecraft:grass_block
+[17:52:01] [Server thread/INFO]: [LSFG: Successfully filled 315 blocks]
+[17:52:22] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[17:52:22] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[17:55:32] [Server thread/INFO]: LSFG issued server command: /time set 1
+[17:55:32] [Server thread/INFO]: [LSFG: Set the time to 1]
+[17:55:52] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:iron_axe
+[17:55:52] [Server thread/INFO]: [LSFG: Gave 1 [Iron Axe] to LSFG]
+[17:57:45] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 5
+[17:57:45] [Server thread/INFO]: [LSFG: Gave 5 [Grass Block] to LSFG]
+[17:57:56] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block
+[17:57:56] [Server thread/INFO]: [LSFG: Gave 1 [Grass Block] to LSFG]
+[18:05:52] [Server thread/INFO]: LSFG issued server command: /time set 1
+[18:05:52] [Server thread/INFO]: [LSFG: Set the time to 1]
+[18:09:34] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:iron_axe 2
+[18:09:34] [Server thread/INFO]: [LSFG: Gave 2 [Iron Axe] to LSFG]
+[18:10:56] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[18:10:56] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[18:12:50] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:birch_log
+[18:12:50] [Server thread/INFO]: [LSFG: Gave 1 [Birch Log] to LSFG]
+[18:13:04] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:birch_planks
+[18:13:04] [Server thread/INFO]: [LSFG: Gave 1 [Birch Planks] to LSFG]
+[18:13:20] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:birch_planks 200
+[18:13:20] [Server thread/INFO]: [LSFG: Gave 200 [Birch Planks] to LSFG]
+[18:13:30] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[18:13:30] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[18:16:21] [Server thread/INFO]: LSFG issued server command: /time set 1
+[18:16:21] [Server thread/INFO]: [LSFG: Set the time to 1]
+[18:27:15] [Server thread/INFO]: LSFG issued server command: /time set 1
+[18:27:15] [Server thread/INFO]: [LSFG: Set the time to 1]
+[18:38:06] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_sapling
+[18:38:06] [Server thread/INFO]: [LSFG: Gave 1 [Oak Sapling] to LSFG]
+[18:38:12] [Server thread/INFO]: LSFG issued server command: /time set 1
+[18:38:12] [Server thread/INFO]: [LSFG: Set the time to 1]
+[18:46:13] [Server thread/INFO]: LSFG issued server command: /fill -247 65 111 -238 64 95 air
+[18:46:13] [Server thread/INFO]: [LSFG: Successfully filled 337 blocks]
+[18:46:22] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[18:46:22] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[18:47:20] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[18:47:20] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[18:47:50] [Server thread/INFO]: LSFG lost connection: Disconnected
+[18:47:50] [Server thread/INFO]: LSFG left the game
+[19:07:05] [User Authenticator #3/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[19:07:05] [Server thread/INFO]: LSFG joined the game
+[19:07:05] [Server thread/INFO]: LSFG[/104.172.46.77:58238] logged in with entity id 8408 at ([world]-239.30000001192093, 64.0, 96.30000001192093)
+[19:07:17] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[19:07:17] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[19:09:50] [Server thread/INFO]: LSFG issued server command: /fill -236 64 107 -196 66 99 air
+[19:09:50] [Server thread/INFO]: [LSFG: Successfully filled 738 blocks]
+[19:10:08] [Server thread/INFO]: LSFG issued server command: /time set 1
+[19:10:08] [Server thread/INFO]: [LSFG: Set the time to 1]
+[19:11:02] [Server thread/INFO]: LSFG issued server command: /fill -236 64 99 -195 64 107 minecraft:grass_block
+[19:11:02] [Server thread/INFO]: [LSFG: Successfully filled 378 blocks]
+[19:12:27] [Server thread/INFO]: LSFG issued server command: /fill -227 64 113 -207 66 93 air
+[19:12:27] [Server thread/INFO]: [LSFG: Successfully filled 709 blocks]
+[19:13:31] [Server thread/INFO]: LSFG issued server command: /fill -227 64 93 -206 64 113 minecraft:grass_block
+[19:13:31] [Server thread/INFO]: [LSFG: Successfully filled 453 blocks]
+[19:15:00] [Server thread/INFO]: LSFG issued server command: /fill -213 64 92 -221 66 82 air
+[19:15:00] [Server thread/INFO]: [LSFG: Successfully filled 198 blocks]
+[19:15:14] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[19:15:14] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[19:16:40] [Server thread/INFO]: LSFG issued server command: /fill -212 64 92 -221 64 82 minecraft:grass_block
+[19:16:40] [Server thread/INFO]: [LSFG: Successfully filled 108 blocks]
+[19:17:46] [Server thread/INFO]: LSFG issued server command: /fill -225 64 81 -209 66 73 air
+[19:17:46] [Server thread/INFO]: [LSFG: Successfully filled 311 blocks]
+[19:18:51] [Server thread/INFO]: LSFG issued server command: /fill -225 64 73 -208 64 81 minecraft:grass_block
+[19:18:51] [Server thread/INFO]: [LSFG: Successfully filled 162 blocks]
+[19:21:03] [Server thread/INFO]: LSFG issued server command: /time set 1
+[19:21:03] [Server thread/INFO]: [LSFG: Set the time to 1]
+[19:22:44] [Server thread/INFO]: LSFG issued server command: /fill -221 64 114 -213 66 124 air
+[19:22:44] [Server thread/INFO]: [LSFG: Successfully filled 209 blocks]
+[19:23:45] [Server thread/INFO]: LSFG issued server command: /fill -222 64 114 -211 64 124 minecraft:grass_block
+[19:23:45] [Server thread/INFO]: [LSFG: Successfully filled 132 blocks]
+[19:25:22] [Server thread/INFO]: LSFG issued server command: /fill -226 64 125 -208 66 133 air
+[19:25:22] [Server thread/INFO]: [LSFG: Successfully filled 357 blocks]
+[19:26:24] [Server thread/INFO]: LSFG issued server command: /fill -226 64 125 -209 64 133 minecraft:grass_block
+[19:26:24] [Server thread/INFO]: [LSFG: Successfully filled 158 blocks]
+[19:27:38] [Server thread/INFO]: LSFG issued server command: /fill -196 64 111 -187 66 95 air
+[19:27:38] [Server thread/INFO]: [LSFG: Successfully filled 342 blocks]
+[19:28:31] [Server thread/INFO]: LSFG issued server command: /fill -196 64 111 -185 64 95 minecraft:grass_block
+[19:28:31] [Server thread/INFO]: [LSFG: Successfully filled 204 blocks]
+[19:29:18] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:dirt 30
+[19:29:18] [Server thread/INFO]: [LSFG: Gave 30 [Dirt] to LSFG]
+[19:32:07] [Server thread/INFO]: LSFG issued server command: /time set 1
+[19:32:07] [Server thread/INFO]: [LSFG: Set the time to 1]
+[19:33:53] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:sand 128
+[19:33:53] [Server thread/INFO]: [LSFG: Gave 128 [Sand] to LSFG]
+[19:36:31] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_log
+[19:36:31] [Server thread/INFO]: [LSFG: Gave 1 [Oak Log] to LSFG]
+[19:36:40] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_log 120
+[19:36:40] [Server thread/INFO]: [LSFG: Gave 120 [Oak Log] to LSFG]
+[19:39:00] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_log 182
+[19:39:00] [Server thread/INFO]: [LSFG: Gave 182 [Oak Log] to LSFG]
+[20:03:27] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:03:27] [Server thread/INFO]: [LSFG: Set the time to 1]
+[20:25:21] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:25:21] [Server thread/INFO]: [LSFG: Set the time to 1]
+[20:30:20] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[20:30:20] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[20:30:35] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[20:30:35] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[20:34:12] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[20:34:12] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[20:36:04] [Server thread/INFO]: LSFG issued server command: /time set1
+[20:36:07] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:36:07] [Server thread/INFO]: [LSFG: Set the time to 1]
+[20:37:07] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[20:37:07] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[20:43:14] [Server thread/INFO]: LSFG issued server command: /give
+[20:46:28] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:46:28] [Server thread/INFO]: [LSFG: Set the time to 1]
+[20:46:57] [Server thread/INFO]: LSFG issued server command: /give lsfg dirt 30
+[20:46:57] [Server thread/INFO]: [LSFG: Gave 30 [Dirt] to LSFG]
+[20:57:13] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:57:13] [Server thread/INFO]: [LSFG: Set the time to 1]
+[21:00:35] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_log 20
+[21:00:35] [Server thread/INFO]: [LSFG: Gave 20 [Oak Log] to LSFG]
+[21:01:13] [Server thread/INFO]: LSFG lost connection: Disconnected
+[21:01:13] [Server thread/INFO]: LSFG left the game
+[21:09:57] [User Authenticator #4/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[21:09:57] [Server thread/INFO]: 1XD233 joined the game
+[21:09:57] [Server thread/INFO]: 1XD233[/172.88.109.119:58278] logged in with entity id 20792 at ([world]-83.45470927155516, 64.0, 40.60785107616324)
+[21:18:56] [Server thread/INFO]: 1XD233 issued server command: /gamemode creative
+[21:18:56] [Server thread/INFO]: [1XD233: Set own game mode to Creative Mode]
+[22:27:09] [User Authenticator #5/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[22:27:09] [Server thread/INFO]: cest_la_vieeee joined the game
+[22:27:09] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:59296] logged in with entity id 28543 at ([world]-641.5115971440334, 10.0, 184.30000001192093)
+[22:27:57] [Server thread/INFO]: cest_la_vieeee issued server command: /gamemode spectator
+[22:27:57] [Server thread/INFO]: [cest_la_vieeee: Set own game mode to Spectator Mode]
+[22:28:13] [Server thread/INFO]: cest_la_vieeee issued server command: /tp cest_la_vieeee 1XD233
+[22:28:13] [Server thread/INFO]: [cest_la_vieeee: Teleported cest_la_vieeee to 1XD233]
+[22:28:36] [Async Chat Thread - #0/INFO]: <cest_la_vieeee> 咋又开创造了
+[22:28:46] [Async Chat Thread - #0/INFO]: <1XD233> hao hao bu ye kai le
+[22:29:09] [Async Chat Thread - #0/INFO]: <1XD233> 要不你都关了
+[22:29:17] [Async Chat Thread - #0/INFO]: <1XD233> 权限之类的
+[22:29:19] [Server thread/INFO]: cest_la_vieeee issued server command: /gamemode survival
+[22:29:19] [Server thread/INFO]: [cest_la_vieeee: Set own game mode to Survival Mode]
+[22:29:30] [Async Chat Thread - #0/INFO]: <cest_la_vieeee> 我又没权限
+[22:29:54] [Server thread/INFO]: cest_la_vieeee has made the advancement [Sweet Dreams]
+[22:29:56] [Async Chat Thread - #0/INFO]: <1XD233> 哦你啊
+[22:30:00] [Async Chat Thread - #0/INFO]: <cest_la_vieeee> ?
+[22:30:13] [Server thread/INFO]: cest_la_vieeee issued server command: /gamemode creative
+[22:30:13] [Server thread/INFO]: [cest_la_vieeee: Set own game mode to Creative Mode]
+[22:31:13] [Async Chat Thread - #1/INFO]: <1XD233> nice thought
+[22:32:21] [Async Chat Thread - #2/INFO]: <1XD233> no no
+[22:32:37] [Async Chat Thread - #2/INFO]: <1XD233> wocao
+[22:32:39] [Async Chat Thread - #2/INFO]: <1XD233> niu
+[22:33:03] [Async Chat Thread - #2/INFO]: <1XD233> dc
+[22:35:04] [Async Chat Thread - #3/INFO]: <1XD233> wocao
+[22:35:06] [Async Chat Thread - #3/INFO]: <1XD233> genius
+[22:35:53] [Async Chat Thread - #3/INFO]: <cest_la_vieeee> 你要什么颜色
+[22:35:58] [Async Chat Thread - #3/INFO]: <cest_la_vieeee> white?
+[22:36:04] [Async Chat Thread - #3/INFO]: <1XD233> let me think'
+[22:38:49] [Async Chat Thread - #4/INFO]: <1XD233> ?
+[22:38:55] [Async Chat Thread - #4/INFO]: <1XD233> dc
+[22:38:59] [Async Chat Thread - #4/INFO]: <cest_la_vieeee> dengxai
+[22:39:04] [Async Chat Thread - #4/INFO]: <cest_la_vieeee> gen wo ma da dian hua
+[22:39:28] [Async Chat Thread - #4/INFO]: <1XD233> o
+[22:40:10] [Async Chat Thread - #4/INFO]: <1XD233> you dian chou xiang
+[22:41:39] [Async Chat Thread - #5/INFO]: <1XD233> 我本来也要弄waterfall的
+[22:41:52] [Async Chat Thread - #5/INFO]: <cest_la_vieeee> 你觉得是连过去好看
+[22:41:55] [Async Chat Thread - #5/INFO]: <cest_la_vieeee> 还是这样
+[22:42:13] [Async Chat Thread - #5/INFO]: <1XD233> zhe yang
+[22:42:37] [Async Chat Thread - #5/INFO]: <1XD233> 有特效的话连过去好看一点
+[22:43:04] [Async Chat Thread - #5/INFO]: <cest_la_vieeee> 先这样吧
+[22:45:12] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -19 72 -1
+[22:45:31] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -19 72 -1 -19 65 -11 minecraft:glass_pane
+[22:45:31] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 88 blocks]
+[22:45:45] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -19 72 -11
+[22:46:00] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -19 72 -11 -36 64 -11 minecraft:glass_pane
+[22:46:00] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 154 blocks]
+[22:46:01] [Async Chat Thread - #6/INFO]: <1XD233> 我觉得没刚才好看
+[22:46:25] [Async Chat Thread - #6/INFO]: <1XD233> 这整的有点想监狱了
+[22:47:39] [Async Chat Thread - #7/INFO]: <cest_la_vieeee> 你这个得实际点
+[22:47:49] [Async Chat Thread - #7/INFO]: <1XD233> nage
+[22:48:35] [Async Chat Thread - #7/INFO]: <1XD233> nmb我睡哪
+[22:49:34] [Async Chat Thread - #7/INFO]: <cest_la_vieeee> nijiushuizheer
+[22:49:35] [Async Chat Thread - #7/INFO]: <1XD233> wtf is this
+[22:49:38] [Async Chat Thread - #7/INFO]: <1XD233> gun
+[22:49:39] [Async Chat Thread - #7/INFO]: <cest_la_vieeee> 你就睡着二
+[22:50:25] [Async Chat Thread - #7/INFO]: <1XD233> 你把这玻璃卸了
+[22:50:53] [Async Chat Thread - #7/INFO]: <1XD233> 属实不美观
+[22:52:22] [Async Chat Thread - #8/INFO]: <cest_la_vieeee> deng xia
+[23:09:59] [User Authenticator #6/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[23:09:59] [Server thread/INFO]: LSFG joined the game
+[23:09:59] [Server thread/INFO]: LSFG[/104.172.46.77:54208] logged in with entity id 33402 at ([world]-225.98738322057045, 69.0, 102.59118096536689)
+[23:10:55] [Async Chat Thread - #9/INFO]: <LSFG> 你开nm创造呢
+[23:11:00] [Server thread/INFO]: cest_la_vieeee issued server command: /effect give cest_la_vieeee minecraft:invisibility 1000000 100 true
+[23:11:00] [Server thread/INFO]: [cest_la_vieeee: Applied effect Invisibility to cest_la_vieeee]
+[23:11:06] [Async Chat Thread - #9/INFO]: <cest_la_vieeee> ?
+[23:11:44] [Server thread/INFO]: LSFG issued server command: /ban cest_la_vieeee
+[23:11:44] [Server thread/INFO]: [LSFG: Banned cest_la_vieeee: Banned by an operator.]
+[23:11:44] [Server thread/INFO]: cest_la_vieeee lost connection: You are banned from this server
+[23:11:44] [Server thread/INFO]: cest_la_vieeee left the game
+[23:11:51] [User Authenticator #7/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[23:11:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@13aaa572[id=60bcb784-6a8e-4550-87fb-1a138386700a,name=cest_la_vieeee,properties={textures=[com.mojang.authlib.properties.Property@694ca60c]},legacy=false] (/137.25.71.149:59456): You are banned from this server.
+Reason: Banned by an operator.
+[23:11:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@13aaa572[id=60bcb784-6a8e-4550-87fb-1a138386700a,name=cest_la_vieeee,properties={textures=[com.mojang.authlib.properties.Property@694ca60c]},legacy=false] (/137.25.71.149:59456) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:11:55] [User Authenticator #7/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[23:11:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2a330041[id=60bcb784-6a8e-4550-87fb-1a138386700a,name=cest_la_vieeee,properties={textures=[com.mojang.authlib.properties.Property@202aac20]},legacy=false] (/137.25.71.149:59458): You are banned from this server.
+Reason: Banned by an operator.
+[23:11:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a330041[id=60bcb784-6a8e-4550-87fb-1a138386700a,name=cest_la_vieeee,properties={textures=[com.mojang.authlib.properties.Property@202aac20]},legacy=false] (/137.25.71.149:59458) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:13:03] [Server thread/INFO]: 1XD233 issued server command: /pardon cest_la_vieeee
+[23:13:03] [Server thread/INFO]: [1XD233: Unbanned cest_la_vieeee]
+[23:16:15] [Async Chat Thread - #10/INFO]: <LSFG> he build this ?
+[23:16:21] [Async Chat Thread - #10/INFO]: <LSFG> tom?
+[23:16:24] [Async Chat Thread - #10/INFO]: <1XD233> he and i
+[23:16:53] [Async Chat Thread - #10/INFO]: <LSFG> ni liang ma ma ke yi he zhange le o
+[23:17:16] [Async Chat Thread - #10/INFO]: <LSFG> qing ming jie hai ke yi chuan men
+[23:17:22] [Server thread/INFO]: LSFG blew up
+[23:17:50] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[23:17:50] [Server thread/INFO]: 1XD233 left the game
+[23:20:37] [Server thread/INFO]: LSFG issued server command: /give lsfg dirt
+[23:20:37] [Server thread/INFO]: [LSFG: Gave 1 [Dirt] to LSFG]
+[23:20:49] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 64
+[23:20:49] [Server thread/INFO]: [LSFG: Gave 64 [Grass Block] to LSFG]
+[23:21:56] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 2
+[23:21:56] [Server thread/INFO]: [LSFG: Gave 2 [Grass Block] to LSFG]
+[23:22:18] [Server thread/INFO]: LSFG issued server command: /give lsfg dirt
+[23:22:18] [Server thread/INFO]: [LSFG: Gave 1 [Dirt] to LSFG]
+[23:38:45] [Server thread/INFO]: LSFG issued server command: /time set 1
+[23:38:45] [Server thread/INFO]: [LSFG: Set the time to 1]
+[23:49:38] [Server thread/INFO]: LSFG issued server command: /time set 1
+[23:49:38] [Server thread/INFO]: [LSFG: Set the time to 1]
+[23:56:45] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:compass
+[23:56:45] [Server thread/INFO]: [LSFG: Gave 1 [Compass] to LSFG]
+[23:58:57] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:oak_planks 64
+[23:58:57] [Server thread/INFO]: [LSFG: Gave 64 [Oak Planks] to LSFG]

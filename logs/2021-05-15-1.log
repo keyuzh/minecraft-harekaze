@@ -1,0 +1,154 @@
+[00:00:11] [Server thread/INFO]: LSFG issued server command: /fill -313 81 -362 -338 86 -374 minecraft:acacia_leaves
+[00:00:11] [Server thread/INFO]: [LSFG: Successfully filled 2028 blocks]
+[00:00:22] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 LSFG
+[00:00:22] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to LSFG]
+[00:00:22] [Server thread/WARN]: tanyaodora12 moved too quickly! 40.73452036683665,73.87173614361421,36.261628479132355
+[00:01:40] [Server thread/INFO]: tanyaodora12 issued server command: /deop LSFG
+[00:01:40] [Server thread/INFO]: [tanyaodora12: Made LSFG no longer a server operator]
+[00:01:42] [Server thread/INFO]: [@: Teleported mio_oda to -317.5, 85.0, -381.5]
+[00:01:52] [Server thread/INFO]: [@: Gave 1 [Oak Boat] to mio_oda]
+[00:02:03] [Server thread/INFO]: [@: Gave 1 [Oak Boat] to JIMUUU]
+[00:03:46] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[00:04:19] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:19] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:33] [Server thread/INFO]: mio_oda issued server command: /gamemode survival LSFG
+[00:04:33] [Server thread/INFO]: [mio_oda: Set LSFG's game mode to Survival Mode]
+[00:04:41] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:41] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:41] [Server thread/WARN]: LSFG moved too quickly! 33.58982256933132,27.2120645533995,-23.188389236743944
+[00:04:45] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:45] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:46] [Server thread/INFO]: LSFG fell from a high place
+[00:04:54] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:54] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:56] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:56] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:56] [Server thread/WARN]: LSFG moved too quickly! -0.29235563255565467,30.29663376881598,6.474510785873349
+[00:04:57] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[00:04:57] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[00:04:58] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_odat
+[00:04:59] [Server thread/INFO]: LSFG fell from a high place
+[00:04:59] [Server thread/INFO]: tanyaodora12 issued server command: //set stone
+[00:05:02] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_odat
+[00:05:10] [Server thread/INFO]: mio_oda issued server command: /gamemode creative LSFG
+[00:05:10] [Server thread/INFO]: [mio_oda: Set LSFG's game mode to Creative Mode]
+[00:05:47] [Server thread/INFO]: tanyaodora12 issued server command: /
+[00:05:57] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 LSFG
+[00:05:57] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to LSFG]
+[00:05:57] [Server thread/WARN]: tanyaodora12 moved too quickly! -112.3586088802783,1.7999999523162842,-147.9354679891979
+[00:06:03] [Server thread/INFO]: tanyaodora12 issued server command: /op LSFG
+[00:06:03] [Server thread/INFO]: [tanyaodora12: Made LSFG a server operator]
+[00:06:07] [Server thread/INFO]: tanyaodora12 issued server command: /deop LSFG
+[00:06:07] [Server thread/INFO]: [tanyaodora12: Made LSFG no longer a server operator]
+[00:06:09] [Server thread/INFO]: tanyaodora12 issued server command: /op LSFG
+[00:06:09] [Server thread/INFO]: [tanyaodora12: Made LSFG a server operator]
+[00:06:11] [Server thread/INFO]: tanyaodora12 issued server command: /deop LSFG
+[00:06:11] [Server thread/INFO]: [tanyaodora12: Made LSFG no longer a server operator]
+[00:06:36] [Server thread/INFO]: There are 4 of a max of 16 players online: mio_oda, tanyaodora12, JIMUUU, LSFG
+[00:10:01] [Server thread/INFO]: mio_oda issued server command: /kill LSFG
+[00:10:01] [Server thread/INFO]: LSFG fell out of the world
+[00:10:01] [Server thread/INFO]: [mio_oda: Killed LSFG]
+[00:10:49] [User Authenticator #25/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[00:10:49] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:62547] logged in with entity id 126873 at ([world]-275.91991921974176, 30.0, -463.30000001192093)
+[00:12:46] [Server thread/INFO]: mio_oda issued server command: /weather clear
+[00:12:46] [Server thread/INFO]: [mio_oda: Set the weather to clear]
+[00:12:59] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[00:14:08] [Server thread/INFO]: mio_oda issued server command: /home
+[00:14:11] [Server thread/INFO]: LSFG issued server command: /clear
+[00:14:19] [Server thread/INFO]: Made LSFG a server operator
+[00:14:22] [Server thread/INFO]: LSFG issued server command: /celar
+[00:14:24] [Server thread/INFO]: LSFG issued server command: /clear
+[00:14:24] [Server thread/INFO]: [LSFG: Removed 64 items from player LSFG]
+[00:17:51] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[00:23:37] [Server thread/INFO]: LSFG issued server command: /fill -300 63 -420 -288 68 -433 minecraft:water
+[00:23:37] [Server thread/INFO]: [LSFG: Successfully filled 1092 blocks]
+[00:24:08] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -291 59 -530
+[00:24:18] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -291 59 -530 -285 64 -523 minecraft:tnt
+[00:24:18] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 336 blocks]
+[00:25:18] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -292 65 -522
+[00:25:48] [Server thread/INFO]: LSFG issued server command: /tp mio_oda lsfg
+[00:25:48] [Server thread/INFO]: [LSFG: Teleported mio_oda to LSFG]
+[00:27:05] [Server thread/INFO]: LSFG issued server command: /fill -292 64 -532 -278 45 -517 tnt
+[00:27:05] [Server thread/INFO]: [LSFG: Successfully filled 4464 blocks]
+[00:27:13] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -292 65 -522 -284 65 -531 minecraft:water
+[00:27:13] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 90 blocks]
+[00:27:26] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -292 65 -522 -284 65 -531 minecraft:air
+[00:27:26] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 90 blocks]
+[00:30:11] [Server thread/INFO]: LSFG issued server command: /fill -262 64 -498 -298 24 -554 ston
+[00:30:44] [Server thread/INFO]: LSFG issued server command: /fill -260 64 -498 -298 24 -554 stone
+[00:32:02] [Server thread/INFO]: cest_la_vieeee issued server command: /tp mio_oda cest_la_vieeee
+[00:32:02] [Server thread/INFO]: [cest_la_vieeee: Teleported mio_oda to cest_la_vieeee]
+[00:32:34] [Server thread/INFO]: LSFG issued server command: /fill -503 81 -308 -477 40 -330 tnt
+[00:32:34] [Server thread/INFO]: [LSFG: Successfully filled 26082 blocks]
+[00:32:41] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 LSFG
+[00:32:41] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to LSFG]
+[00:32:41] [Server thread/WARN]: tanyaodora12 moved too quickly! -257.4663473279668,4.350728502397288,68.36112604067443
+[00:32:51] [Server thread/INFO]: cest_la_vieeee issued server command: /effect give mio_oda minecraft:nausea 1000000 100 true
+[00:32:51] [Server thread/INFO]: [cest_la_vieeee: Applied effect Nausea to mio_oda]
+[00:32:59] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[00:33:24] [Server thread/INFO]: LSFG issued server command: /tp mio_oda lsfg
+[00:33:24] [Server thread/INFO]: [LSFG: Teleported mio_oda to LSFG]
+[00:33:48] [Server thread/INFO]: cest_la_vieeee issued server command: /tp cest_la_vieeee mio_oda
+[00:33:48] [Server thread/INFO]: [cest_la_vieeee: Teleported cest_la_vieeee to mio_oda]
+[00:33:52] [Server thread/INFO]: LSFG issued server command: /tp cest_la_vieeee lsfg
+[00:33:52] [Server thread/INFO]: [LSFG: Teleported cest_la_vieeee to LSFG]
+[00:33:57] [Server thread/INFO]: JIMUUU issued server command: /tel
+[00:34:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
+[00:34:32] [Server thread/INFO]: JIMUUU issued server command: /teleport LSFG
+[00:34:32] [Server thread/INFO]: [JIMUUU: Teleported JIMUUU to LSFG]
+[00:34:59] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -224 79 -403
+[00:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38598ms or 771 ticks behind
+[00:35:27] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -224 79 -403 -202 130 -367
+[00:35:30] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -224 79 -403 -202 130 -367 minecraft:tnt
+[00:35:36] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -224 79 -403 -202 100 -367
+[00:35:48] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -224 79 -403 -202 115 -367 minecraft:tnt
+[00:35:48] [Server thread/INFO]: [cest_la_vieeee: Successfully filled 31487 blocks]
+[00:36:08] [Server thread/INFO]: LSFG issued server command: /tp lsfg cest_la_vieeee
+[00:36:08] [Server thread/INFO]: [LSFG: Teleported LSFG to cest_la_vieeee]
+[00:36:09] [Server thread/WARN]: mio_oda moved too quickly! 69.70716009875565,1.3641303623619336,-4.892606340813927
+[00:36:09] [Server thread/WARN]: cest_la_vieeee moved too quickly! 0.6034602837978582,8.78132231236043,-16.26850537398923
+[00:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42369ms or 847 ticks behind
+[00:37:01] [Server thread/INFO]: LSFG issued server command: /fill -224 77 -364 -119 117 -404 air
+[00:37:14] [Server thread/INFO]: Incorrect argument for command
+[00:37:14] [Server thread/INFO]: gamerule tntexplodes false<--[HERE]
+[00:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10712ms or 214 ticks behind
+[00:37:48] [Server thread/INFO]: LSFG issued server command: /fill -224 77 -364 -199 90 -404 air
+[00:37:48] [Server thread/INFO]: [LSFG: Successfully filled 10179 blocks]
+[00:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[00:38:03] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 cest_la_vieeee
+[00:38:03] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to cest_la_vieeee]
+[00:38:28] [Server thread/INFO]: LSFG issued server command: /fill -224 95 -
+[00:38:29] [Server thread/INFO]: mio_oda lost connection: Disconnected
+[00:38:29] [Server thread/INFO]: mio_oda left the game
+[00:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5064ms or 101 ticks behind
+[00:38:40] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:38:45] [Server thread/INFO]: Stopping the server
+[00:38:46] [Server thread/INFO]: Stopping server
+[00:38:46] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[00:38:46] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[00:38:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
+[00:38:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:38:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.2.92
+[00:38:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:38:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:38:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:38:46] [Server thread/INFO]: Saving players
+[00:38:46] [Server thread/INFO]: tanyaodora12 lost connection: Server closed
+[00:38:46] [Server thread/INFO]: tanyaodora12 left the game
+[00:38:46] [Server thread/INFO]: JIMUUU lost connection: Server closed
+[00:38:46] [Server thread/INFO]: JIMUUU left the game
+[00:38:46] [Server thread/INFO]: LSFG lost connection: Server closed
+[00:38:46] [Server thread/INFO]: LSFG left the game
+[00:38:46] [Server thread/INFO]: cest_la_vieeee lost connection: Server closed
+[00:38:46] [Server thread/INFO]: cest_la_vieeee left the game
+[00:38:46] [Server thread/INFO]: Saving worlds
+[00:38:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:53] [Server thread/INFO]: Thread RCON Listener stopped

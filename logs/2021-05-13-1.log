@@ -1,0 +1,130 @@
+[13:35:03] [User Authenticator #12/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[13:35:03] [Server thread/INFO]: LSFG[/104.172.46.77:52303] logged in with entity id 30078 at ([world]-223.90074926083176, 69.0, -359.84610014096796)
+[13:35:04] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[13:35:39] [Server thread/INFO]: LSFG issued server command: /weather clear
+[13:35:39] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[13:40:44] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[13:41:36] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[13:45:00] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:pig_spawn_egg 1
+[13:45:00] [Server thread/INFO]: [LSFG: Gave 1 [Pig Spawn Egg] to LSFG]
+[13:52:09] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[13:53:37] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[13:53:37] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[13:54:06] [Server thread/INFO]: LSFG issued server command: /weather clear
+[13:54:06] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[13:54:14] [Server thread/INFO]: LSFG issued server command: /time set 1
+[13:54:14] [Server thread/INFO]: [LSFG: Set the time to 1]
+[13:54:15] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[13:59:18] [Server thread/INFO]: LSFG issued server command: /remove x-129.7 30 -440
+[14:00:27] [Server thread/INFO]: LSFG issued server command: /remove all -129.7 20 -450
+[14:03:16] [Server thread/INFO]: LSFG issued server command: /fill ~-128~70~-443
+[14:06:46] [Server thread/INFO]: LSFG issued server command: /fill -
+[14:07:23] [Server thread/INFO]: LSFG issued server command: /fill -129 70 -444
+[14:08:35] [Server thread/INFO]: LSFG issued server command: /fill -130 70 -455 -120 30 -450 minecraft:air
+[14:08:35] [Server thread/INFO]: [LSFG: Successfully filled 2576 blocks]
+[14:11:39] [Server thread/INFO]: LSFG issued server command: /fill -119 40 -459 -129 40 -455
+[14:12:08] [Server thread/INFO]: LSFG issued server command: /fill -119 40 -459 -129 40 -455 air
+[14:12:08] [Server thread/INFO]: [LSFG: Successfully filled 55 blocks]
+[14:12:20] [Server thread/INFO]: LSFG issued server command: /undo
+[14:15:44] [Server thread/INFO]: LSFG issued server command: /fill -129 67 -455 -119 40 -459 air replace
+[14:15:44] [Server thread/INFO]: [LSFG: Successfully filled 1194 blocks]
+[14:16:14] [Server thread/INFO]: LSFG issued server command: /undo
+[14:16:25] [Server thread/INFO]: LSFG issued server command: /
+[14:18:02] [Server thread/INFO]: LSFG issued server command: /fill -130 -64 -455 -119 30 -459 air
+[14:28:11] [Server thread/INFO]: LSFG issued server command: /time set day
+[14:28:11] [Server thread/INFO]: [LSFG: Set the time to 1000]
+[14:34:19] [Server thread/INFO]: LSFG issued server command: /fill -119 10 -459 -129 28 -449 air
+[14:34:19] [Server thread/INFO]: [LSFG: Successfully filled 1794 blocks]
+[14:38:16] [Server thread/INFO]: LSFG issued server command: /time set 1
+[14:38:16] [Server thread/INFO]: [LSFG: Set the time to 1]
+[14:49:20] [Server thread/INFO]: LSFG issued server command: /time set 1
+[14:49:20] [Server thread/INFO]: [LSFG: Set the time to 1]
+[14:55:01] [Server thread/INFO]: LSFG lost connection: Disconnected
+[14:55:01] [Server thread/INFO]: LSFG left the game
+[15:42:36] [User Authenticator #13/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[15:42:36] [Server thread/INFO]: LSFG[/104.172.46.77:57721] logged in with entity id 41557 at ([world]-121.47793410828297, 85.91894746400831, -444.6224940974645)
+[15:44:33] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[15:49:09] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[18:19:28] [User Authenticator #14/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[18:19:28] [Server thread/INFO]: 1XD233[/172.88.109.119:55967] logged in with entity id 63248 at ([world]-261.24177762518593, 76.1683385710069, -401.5318279934839)
+[18:19:34] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[18:22:13] [Async Chat Thread - #12/INFO]: <1XD233> 你怎么这么闲[m
+[18:28:46] [Async Chat Thread - #13/INFO]: <1XD233> 则么会有苦力怕[m
+[18:32:02] [Server thread/INFO]: LSFG lost connection: Disconnected
+[18:32:02] [Server thread/INFO]: LSFG left the game
+[18:35:06] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[18:39:17] [Server thread/INFO]: 1XD233 issued server command: /time set night
+[18:39:17] [Server thread/INFO]: [1XD233: Set the time to 13000]
+[18:39:18] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[18:40:03] [User Authenticator #15/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[18:40:03] [Server thread/INFO]: LSFG[/104.172.46.77:58969] logged in with entity id 69517 at ([world]-128.33549954652435, 6.0, -453.0653413447682)
+[18:41:19] [Server thread/INFO]: 1XD233 issued server command: /gamemode survival
+[18:41:19] [Server thread/INFO]: [1XD233: Set own game mode to Survival Mode]
+[18:41:58] [Server thread/INFO]: LSFG issued server command: /
+[18:42:12] [Server thread/INFO]: LSFG issued server command: /clear lsfg
+[18:42:12] [Server thread/INFO]: [LSFG: Removed 138 items from player LSFG]
+[18:46:04] [Server thread/INFO]: LSFG issued server command: /fill -161 -68 -432 -103 75 -396 air
+[18:46:53] [Server thread/INFO]: LSFG issued server command: /fill -103 68 -396 -161 68 -432 air
+[18:46:53] [Server thread/INFO]: [LSFG: Successfully filled 1802 blocks]
+[18:48:17] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[18:48:59] [Server thread/INFO]: LSFG issued server command: /fill -111 72 -426 -135 72 -398 air
+[18:48:59] [Server thread/INFO]: [LSFG: Successfully filled 711 blocks]
+[18:50:34] [Server thread/INFO]: LSFG issued server command: /fill -110 90 -426 -135 68 -398
+[18:51:02] [Server thread/INFO]: LSFG issued server command: /fill -110 90 -426 -135 68 -398 air
+[18:51:02] [Server thread/INFO]: [LSFG: Successfully filled 7285 blocks]
+[18:53:02] [Server thread/INFO]: 1XD233 issued server command: /gamemode creative
+[18:53:02] [Server thread/INFO]: [1XD233: Set own game mode to Creative Mode]
+[18:53:58] [Async Chat Thread - #14/INFO]: <1XD233> ?[m
+[18:56:15] [Async Chat Thread - #15/INFO]: <LSFG> 给马造房子[m
+[18:56:31] [Async Chat Thread - #15/INFO]: <1XD233> nice thought[m
+[19:01:26] [Server thread/INFO]: LSFG issued server command: /fill -129 69 -443 -154 90 -409 air
+[19:01:26] [Server thread/INFO]: [LSFG: Successfully filled 1731 blocks]
+[19:02:29] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:06:52] [Server thread/INFO]: LSFG issued server command: /clear
+[19:06:52] [Server thread/INFO]: [LSFG: Removed 685 items from player LSFG]
+[19:07:02] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:stone
+[19:07:02] [Server thread/INFO]: [LSFG: Gave 1 [Stone] to LSFG]
+[19:08:04] [Server thread/INFO]: LSFG issued server command: /fill -107 64 -400 -152 68 -434 minecraft:dirt replace stone
+[19:08:04] [Server thread/INFO]: [LSFG: Successfully filled 4551 blocks]
+[19:08:23] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block
+[19:08:23] [Server thread/INFO]: [LSFG: Gave 1 [Grass Block] to LSFG]
+[19:10:31] [Server thread/INFO]: LSFG issued server command: /fill -107 65 -400 -125 68 -434 minecraft:grass_block replace dirt
+[19:10:31] [Server thread/INFO]: [LSFG: Successfully filled 1260 blocks]
+[19:10:45] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:11:50] [Server thread/INFO]: LSFG issued server command: /fill -107 65 -400 -156 68 -434 minecraft:grass_block replace
+[19:11:50] [Server thread/INFO]: [LSFG: Successfully filled 6255 blocks]
+[19:15:48] [Server thread/INFO]: 1XD233 lost connection: You have been idle for too long!
+[19:15:48] [Server thread/INFO]: 1XD233 left the game
+[19:19:23] [Server thread/INFO]: LSFG issued server command: /fill -125 63 -414 -91 70 -386 minecraft:grass_block
+[19:19:23] [Server thread/INFO]: [LSFG: Successfully filled 7780 blocks]
+[19:23:33] [User Authenticator #16/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[19:23:33] [Server thread/INFO]: 1XD233[/172.88.109.119:56893] logged in with entity id 77000 at ([world]-125.65914324282377, 78.5, -447.50819204445247)
+[19:23:46] [Server thread/INFO]: 1XD233 issued server command: /teleport LSFG
+[19:23:46] [Server thread/INFO]: [1XD233: Teleported 1XD233 to LSFG]
+[19:24:23] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:25:06] [Server thread/INFO]: LSFG issued server command: /
+[19:26:22] [Server thread/INFO]: LSFG issued server command: /fill -120 64 -435 -96 68 -421 minecraft:grass_block
+[19:26:22] [Server thread/INFO]: [LSFG: Successfully filled 1604 blocks]
+[19:27:33] [Server thread/INFO]: LSFG issued server command: /fill -127 68 -441 -97 70 -417 minecraft:grass_block
+[19:27:33] [Server thread/INFO]: [LSFG: Successfully filled 1697 blocks]
+[19:27:56] [Server thread/INFO]: LSFG issued server command: /undo
+[19:28:00] [Server thread/INFO]: LSFG issued server command: /undo fill
+[19:30:28] [Server thread/INFO]: LSFG issued server command: /fill -127 69 -440 -112 70 -425 air
+[19:30:28] [Server thread/INFO]: [LSFG: Successfully filled 509 blocks]
+[19:31:56] [Server thread/INFO]: LSFG issued server command: /fill -123 69 -435 -105 71 -416 air
+[19:31:56] [Server thread/INFO]: [LSFG: Successfully filled 461 blocks]
+[19:35:10] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:37:22] [Server thread/INFO]: LSFG issued server command: /clear
+[19:37:22] [Server thread/INFO]: [LSFG: Removed 397 items from player LSFG]
+[19:37:27] [Server thread/INFO]: LSFG issued server command: /clear 1xd233
+[19:37:27] [Server thread/INFO]: [LSFG: Removed 8 items from player 1XD233]
+[19:39:17] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:48:17] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:49:48] [Server thread/INFO]: 1XD233 lost connection: You have been idle for too long!
+[19:49:48] [Server thread/INFO]: 1XD233 left the game
+[19:52:25] [Server thread/INFO]: LSFG lost connection: Disconnected
+[19:52:25] [Server thread/INFO]: LSFG left the game
+[20:21:30] [User Authenticator #17/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[20:21:30] [Server thread/INFO]: 1XD233[/172.88.109.119:57527] logged in with entity id 80820 at ([world]-132.6223714121873, 91.64094616221665, -429.0851989418222)
+[20:22:05] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[20:22:05] [Server thread/INFO]: 1XD233 left the game

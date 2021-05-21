@@ -1,0 +1,205 @@
+[19:15:20] [User Authenticator #18/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[19:15:20] [Server thread/INFO]: LSFG[/104.172.46.77:62465] logged in with entity id 81080 at ([world]-212.73266949303934, 47.0, -384.87569012671776)
+[19:19:00] [Server thread/INFO]: LSFG issued server command: /fill -210 47 -383 -161 52 -386 minecraft:glass
+[19:19:00] [Server thread/INFO]: [LSFG: Successfully filled 1200 blocks]
+[19:19:03] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:20:44] [Server thread/INFO]: LSFG issued server command: /fill -210 47 -383 -161 52 -387 glass
+[19:20:44] [Server thread/INFO]: [LSFG: Successfully filled 300 blocks]
+[19:28:17] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:34:56] [Server thread/INFO]: LSFG lost connection: You have been idle for too long!
+[19:34:56] [Server thread/INFO]: LSFG left the game
+[19:41:51] [User Authenticator #19/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[19:41:51] [Server thread/INFO]: LSFG[/104.172.46.77:62914] logged in with entity id 83167 at ([world]-199.5522788828188, 47.0, -383.824636268054)
+[19:41:52] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:48:07] [Server thread/INFO]: LSFG issued server command: /fill -160 46 -385 -210 46 -383 minecraft:chiseled_quartz_block
+[19:48:07] [Server thread/INFO]: [LSFG: Successfully filled 153 blocks]
+[19:48:17] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:48:25] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:nether_quartz_ore 1
+[19:48:25] [Server thread/INFO]: [LSFG: Gave 1 [Nether Quartz Ore] to LSFG]
+[19:48:37] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:smooth_quartz
+[19:48:37] [Server thread/INFO]: [LSFG: Gave 1 [Smooth Quartz Block] to LSFG]
+[19:49:00] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:smooth_quartz
+[19:49:00] [Server thread/INFO]: [LSFG: Gave 1 [Smooth Quartz Block] to LSFG]
+[19:49:11] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:quartz_block
+[19:49:11] [Server thread/INFO]: [LSFG: Gave 1 [Block of Quartz] to LSFG]
+[19:50:11] [Server thread/INFO]: LSFG issued server command: /fill -160 46 -386 -210 46 -383 minecraft:quartz_block
+[19:50:11] [Server thread/INFO]: [LSFG: Successfully filled 204 blocks]
+[19:57:01] [Server thread/INFO]: LSFG issued server command: /fill -160 47 -382 -140 52 -386 minecraft:glass
+[19:57:01] [Server thread/INFO]: [LSFG: Successfully filled 630 blocks]
+[19:59:06] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:59:44] [Server thread/INFO]: LSFG issued server command: /fill -160 47 -382 -140 51 -387 minecraft:glass
+[19:59:44] [Server thread/INFO]: [LSFG: Successfully filled 158 blocks]
+[20:03:03] [Server thread/INFO]: LSFG issued server command: /fill -158 46 -383 -139 46 -385 minecraft:quartz_block
+[20:03:03] [Server thread/INFO]: [LSFG: Successfully filled 60 blocks]
+[20:26:23] [Server thread/INFO]: LSFG issued server command: /weather clear
+[20:26:23] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[20:26:28] [Server thread/INFO]: LSFG issued server command: /time set day
+[20:26:28] [Server thread/INFO]: [LSFG: Set the time to 1000]
+[20:48:05] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[20:59:27] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[21:07:23] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[21:09:14] [Server thread/INFO]: LSFG issued server command: /fill -124 69 -412 -82 90 -363 air
+[21:09:59] [Server thread/INFO]: LSFG issued server command: /fill -124 69 -412 -82 85 -363 air
+[21:11:34] [Server thread/INFO]: LSFG issued server command: /fill -128 69 -410 -84 80 -377 air
+[21:11:34] [Server thread/INFO]: [LSFG: Successfully filled 7317 blocks]
+[21:16:36] [Server thread/INFO]: LSFG issued server command: /fill -129 68 -410 -80 68 -374 minecraft:grass_block
+[21:16:36] [Server thread/INFO]: [LSFG: Successfully filled 1754 blocks]
+[21:17:03] [Server thread/INFO]: LSFG issued server command: /time set day
+[21:17:03] [Server thread/INFO]: [LSFG: Set the time to 1000]
+[21:24:47] [User Authenticator #20/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[21:24:47] [Server thread/INFO]: 1XD233[/172.88.109.119:58466] logged in with entity id 95344 at ([world]-121.27451588824133, 88.70154129082907, -445.534071843443)
+[21:25:57] [Async Chat Thread - #16/INFO]: <1XD233> ?[m
+[21:27:00] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[21:29:33] [Server thread/INFO]: LSFG issued server command: /cealr
+[21:29:36] [Server thread/INFO]: LSFG issued server command: /clear
+[21:29:36] [Server thread/INFO]: [LSFG: Removed 269 items from player LSFG]
+[21:30:33] [Async Chat Thread - #17/INFO]: <LSFG> 我拉屎去了[m
+[21:30:36] [Async Chat Thread - #17/INFO]: <1XD233> o[m
+[21:32:35] [Server thread/INFO]: [@: Gave 1 [Oak Boat] to 1XD233]
+[21:36:14] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[21:40:33] [Server thread/INFO]: LSFG lost connection: You have been idle for too long!
+[21:40:33] [Server thread/INFO]: LSFG left the game
+[21:49:03] [User Authenticator #21/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[21:49:03] [Server thread/INFO]: LSFG[/104.172.46.77:64135] logged in with entity id 99578 at ([world]-148.78035496476176, 84.5896515410907, -409.187942156349)
+[21:49:33] [Server thread/INFO]: LSFG issued server command: /time set 1
+[21:49:33] [Server thread/INFO]: [LSFG: Set the time to 1]
+[21:53:03] [Server thread/INFO]: 1XD233 lost connection: You have been idle for too long!
+[21:53:03] [Server thread/INFO]: 1XD233 left the game
+[22:20:35] [Server thread/INFO]: LSFG issued server command: /time set 1
+[22:20:35] [Server thread/INFO]: [LSFG: Set the time to 1]
+[22:33:10] [Server thread/INFO]: LSFG issued server command: /time set 1
+[22:33:10] [Server thread/INFO]: [LSFG: Set the time to 1]
+[22:54:02] [User Authenticator #22/INFO]: UUID of player mio_oda is 08febcc4-49ee-492a-8227-82f8c30ea6b3
+[22:54:02] [Server thread/INFO]: mio_oda[/101.228.29.72:9256] logged in with entity id 108615 at ([world]-320.37232131641485, 70.2446728485075, -516.6204976035275)
+[22:55:07] [Server thread/INFO]: mio_oda issued server command: /tp mio_oda LSFG
+[22:55:07] [Server thread/INFO]: [mio_oda: Teleported mio_oda to LSFG]
+[22:58:51] [Server thread/INFO]: LSFG issued server command: /tp mio_oda lsfg
+[22:58:51] [Server thread/INFO]: [LSFG: Teleported mio_oda to LSFG]
+[23:00:42] [Async Chat Thread - #18/INFO]: <LSFG> 你去看tom家[m
+[23:03:46] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:08:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:08:43] [Server thread/INFO]: say<--[HERE]
+[23:08:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:08:51] [Server thread/INFO]: [0;33;1m[9m--------------------[m Help [0;33;1m[9m--------------------[m
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//[m: Toggle the super pickaxe function
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/.s[m: Execute last CraftScript
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/ascend[m: Go up a floor
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomeinfo[m: Get the biome of the targeted block.
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomelist[m: Gets all biomes available.
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/brush[m: Brushing commands
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/butcher[m: Kill all or nearby mobs
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//calculate[m: Evaluate a mathematical expression
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/ceil[m: Go to the ceiling
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//center[m: Set the center block(s)
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//chunk[m: Set the selection to your current chunk.
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/chunkinfo[m: Get information about the chunk you're inside
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearclipboard[m: Clear your clipboard
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearhistory[m: Clear your history
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//contract[m: Contract the selection area
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//copy[m: Copy the selection to the clipboard
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//count[m: Counts the number of blocks matching a mask
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m/cs[m: Execute a CraftScript
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//curve[m: Draws a spline through selected points
+[23:08:51] [Server thread/INFO]: [0;37;22m? [0;33;22m//cut[m: Cut the selection to the clipboard
+[23:08:51] [Server thread/INFO]: [0;33;1m[9m-----------------[m [0;33;1mPage [0;33;22m1[0;33;1m of [0;33;22m6[m [0;33;1m[9m-----------------[m
+[23:08:57] [Server thread/INFO]: [0;33;1m[9m--------------------[m Help [0;33;1m[9m--------------------[m
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//[m: Toggle the super pickaxe function
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/.s[m: Execute last CraftScript
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/ascend[m: Go up a floor
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomeinfo[m: Get the biome of the targeted block.
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomelist[m: Gets all biomes available.
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/brush[m: Brushing commands
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/butcher[m: Kill all or nearby mobs
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//calculate[m: Evaluate a mathematical expression
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/ceil[m: Go to the ceiling
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//center[m: Set the center block(s)
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//chunk[m: Set the selection to your current chunk.
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/chunkinfo[m: Get information about the chunk you're inside
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearclipboard[m: Clear your clipboard
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearhistory[m: Clear your history
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//contract[m: Contract the selection area
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//copy[m: Copy the selection to the clipboard
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//count[m: Counts the number of blocks matching a mask
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m/cs[m: Execute a CraftScript
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//curve[m: Draws a spline through selected points
+[23:08:57] [Server thread/INFO]: [0;37;22m? [0;33;22m//cut[m: Cut the selection to the clipboard
+[23:08:57] [Server thread/INFO]: [0;33;1m[9m-----------------[m [0;33;1mPage [0;33;22m1[0;33;1m of [0;33;22m6[m [0;33;1m[9m-----------------[m
+[23:09:00] [Server thread/INFO]: [0;31;1mThe command '2' could not be found.[m
+[23:09:03] [Server thread/INFO]: [0;33;1m[9m--------------------[m Help [0;33;1m[9m--------------------[m
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//[m: Toggle the super pickaxe function
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/.s[m: Execute last CraftScript
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/ascend[m: Go up a floor
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomeinfo[m: Get the biome of the targeted block.
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/biomelist[m: Gets all biomes available.
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/brush[m: Brushing commands
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/butcher[m: Kill all or nearby mobs
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//calculate[m: Evaluate a mathematical expression
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/ceil[m: Go to the ceiling
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//center[m: Set the center block(s)
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//chunk[m: Set the selection to your current chunk.
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/chunkinfo[m: Get information about the chunk you're inside
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearclipboard[m: Clear your clipboard
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/clearhistory[m: Clear your history
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//contract[m: Contract the selection area
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//copy[m: Copy the selection to the clipboard
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//count[m: Counts the number of blocks matching a mask
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m/cs[m: Execute a CraftScript
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//curve[m: Draws a spline through selected points
+[23:09:03] [Server thread/INFO]: [0;37;22m? [0;33;22m//cut[m: Cut the selection to the clipboard
+[23:09:03] [Server thread/INFO]: [0;33;1m[9m-----------------[m [0;33;1mPage [0;33;22m1[0;33;1m of [0;33;22m6[m [0;33;1m[9m-----------------[m
+[23:09:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:09:22] [Server thread/INFO]: [Server] a
+[23:09:29] [Server thread/INFO]: There are 2 of a max of 16 players online: LSFG, mio_oda
+[23:09:30] [Async Chat Thread - #19/INFO]: <LSFG> ?[m
+[23:09:43] [Server thread/INFO]: [Server] discord不说话的马
+[23:11:23] [User Authenticator #23/INFO]: UUID of player tanyaodora12 is 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+[23:11:23] [Server thread/INFO]: tanyaodora12[/192.168.1.199:2725] logged in with entity id 112230 at ([world]-235.33279083244202, 82.98083232480555, -485.61555038688647)
+[23:12:43] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 mio_oda
+[23:12:43] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to mio_oda]
+[23:12:43] [Server thread/WARN]: tanyaodora12 moved too quickly! -147.17669352029128,-30.95566682487967,-67.04977734235706
+[23:12:47] [Server thread/INFO]: LSFG issued server command: /tp lsfg mio_oda
+[23:12:47] [Server thread/INFO]: [LSFG: Teleported LSFG to mio_oda]
+[23:12:59] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:13:31] [Server thread/INFO]: mio_oda issued server command: /tp tanyaodora12 mio_oda
+[23:13:31] [Server thread/INFO]: [mio_oda: Teleported tanyaodora12 to mio_oda]
+[23:13:31] [Server thread/WARN]: tanyaodora12 moved too quickly! -3.195504835221982,17.0,6.2714484820410235
+[23:13:40] [Server thread/INFO]: mio_oda issued server command: /tp LSFG mio_oda
+[23:13:40] [Server thread/INFO]: [mio_oda: Teleported LSFG to mio_oda]
+[23:15:18] [Server thread/INFO]: [@: Gave 1 [Oak Boat] to tanyaodora12]
+[23:17:47] [Server thread/INFO]: LSFG issued server command: /kill horse
+[23:17:55] [Server thread/INFO]: LSFG issued server command: /kill tanyaodora12
+[23:17:55] [Server thread/INFO]: tanyaodora12 fell out of the world
+[23:17:55] [Server thread/INFO]: [LSFG: Killed tanyaodora12]
+[23:18:12] [Server thread/INFO]: tanyaodora12 issued server command: /tp tanyaodora12 LSFG
+[23:18:12] [Server thread/INFO]: [tanyaodora12: Teleported tanyaodora12 to LSFG]
+[23:18:12] [Server thread/WARN]: tanyaodora12 moved too quickly! 223.67884294037464,-16.0,-13.136589624812359
+[23:18:57] [User Authenticator #24/INFO]: UUID of player JIMUUU is daab9704-5111-4d2f-a4d0-294771d7d4ae
+[23:18:57] [Server thread/INFO]: JIMUUU[/104.35.20.134:63086] logged in with entity id 114915 at ([world]-374.6709206421245, 89.0, -463.6940239423381)
+[23:19:54] [Server thread/INFO]: LSFG has made the advancement [Take Aim]
+[23:20:25] [Server thread/INFO]: tanyaodora12 issued server command: /kill @e[type=minecraft:horse]
+[23:20:25] [Server thread/INFO]: [tanyaodora12: Killed 45 entities]
+[23:23:46] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:31:57] [Async Chat Thread - #20/INFO]: <LSFG> hi[m
+[23:32:05] [Server thread/INFO]: [Server] nmsl
+[23:32:59] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:35:31] [Server thread/INFO]: LSFG issued server command: /give lsfg saddle
+[23:35:31] [Server thread/INFO]: [LSFG: Gave 1 [Saddle] to LSFG]
+[23:37:34] [Server thread/INFO]: JIMUUU has made the advancement [Take Aim]
+[23:42:45] [Server thread/WARN]: Horse (vehicle of LSFG) moved wrongly! 0.25609151817437237
+[23:43:35] [Server thread/INFO]: tanyaodora12 issued server command: /kill @e[type=minecraft:horse]
+[23:43:35] [Server thread/INFO]: [tanyaodora12: Killed 5 entities]
+[23:45:03] [Server thread/INFO]: mio_oda issued server command: /give mio_oda saddle
+[23:45:03] [Server thread/INFO]: [mio_oda: Gave 1 [Saddle] to mio_oda]
+[23:45:53] [Server thread/WARN]: 东海帝王 (vehicle of mio_oda) moved wrongly! 0.30581962113279815
+[23:45:53] [Server thread/WARN]: 东海帝王 (vehicle of mio_oda) moved wrongly! 0.8960550553097022
+[23:45:53] [Server thread/WARN]: 东海帝王 (vehicle of mio_oda) moved wrongly! 1.0
+[23:45:53] [Server thread/WARN]: 东海帝王 (vehicle of mio_oda) moved wrongly! 1.0
+[23:49:01] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:50:44] [Server thread/WARN]: Horse (vehicle of LSFG) moved wrongly! 0.41316909275036845
+[23:52:07] [Async Chat Thread - #21/INFO]: <tanyaodora12> 傻逼[m
+[23:52:54] [Server thread/INFO]: JIMUUU has made the advancement [Ol' Betsy]
+[23:56:00] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[23:56:42] [Server thread/INFO]: LSFG issued server command: /clear
+[23:56:42] [Server thread/INFO]: [LSFG: Removed 61 items from player LSFG]
+[23:57:09] [Server thread/INFO]: LSFG issued server command: /
+[23:58:50] [Server thread/INFO]: [@: Gave 1 [Oak Boat] to tanyaodora12]

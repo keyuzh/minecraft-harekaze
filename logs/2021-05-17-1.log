@@ -1,0 +1,48 @@
+[00:00:34] [Server thread/INFO]: There are 0 of a max of 16 players online: 
+[03:30:38] [User Authenticator #2/INFO]: UUID of player mio_oda is 08febcc4-49ee-492a-8227-82f8c30ea6b3
+[03:30:38] [Server thread/INFO]: mio_oda joined the game
+[03:30:38] [Server thread/INFO]: mio_oda[/101.228.29.72:9651] logged in with entity id 1869 at ([world]-214.5, 69.0, -89.5)
+[03:31:02] [Server thread/INFO]: mio_oda issued server command: /gamemode creative
+[03:31:02] [Server thread/INFO]: [mio_oda: Set own game mode to Creative Mode]
+[03:32:04] [Server thread/INFO]: mio_oda issued server command: /gamemode survival
+[03:32:04] [Server thread/INFO]: [mio_oda: Set own game mode to Survival Mode]
+[03:34:06] [Server thread/INFO]: mio_oda has made the advancement [Stone Age]
+[03:34:43] [Server thread/INFO]: mio_oda has made the advancement [Getting an Upgrade]
+[03:40:04] [Server thread/INFO]: mio_oda has made the advancement [Monster Hunter]
+[03:41:56] [Server thread/INFO]: mio_oda has made the advancement [Acquire Hardware]
+[03:42:30] [Server thread/INFO]: mio_oda has made the advancement [Sweet Dreams]
+[03:42:46] [Server thread/INFO]: mio_oda has made the advancement [Isn't It Iron Pick]
+[03:54:31] [Server thread/INFO]: mio_oda has made the advancement [Not Today, Thank You]
+[03:59:16] [Server thread/INFO]: mio_oda lost connection: Disconnected
+[03:59:16] [Server thread/INFO]: mio_oda left the game
+[16:23:44] [User Authenticator #3/INFO]: UUID of player tanyaodora12 is 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+[16:23:44] [Server thread/INFO]: tanyaodora12 joined the game
+[16:23:44] [Server thread/INFO]: tanyaodora12[/192.168.1.199:11140] logged in with entity id 8055 at ([world]-198.27608942237836, 83.24313996495438, -70.13993093859668)
+[16:25:34] [Server thread/INFO]: tanyaodora12 lost connection: Disconnected
+[16:25:34] [Server thread/INFO]: tanyaodora12 left the game
+[21:25:40] [User Authenticator #4/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[21:25:40] [Server thread/INFO]: cest_la_vieeee joined the game
+[21:25:40] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:60770] logged in with entity id 9005 at ([world]-216.5, 71.0, -88.5)
+[21:42:51] [Server thread/INFO]: cest_la_vieeee issued server command: /gamemode creative
+[21:42:51] [Server thread/INFO]: [cest_la_vieeee: Set own game mode to Creative Mode]
+[21:42:57] [Server thread/INFO]: cest_la_vieeee issued server command: /locate village
+[21:46:00] [Server thread/INFO]: cest_la_vieeee has made the advancement [Ice Bucket Challenge]
+[21:46:00] [Server thread/INFO]: cest_la_vieeee has made the advancement [Acquire Hardware]
+[21:47:22] [Server thread/INFO]: cest_la_vieeee lost connection: Disconnected
+[21:47:22] [Server thread/INFO]: cest_la_vieeee left the game
+[23:51:06] [User Authenticator #5/INFO]: UUID of player cest_la_vieeee is 60bcb784-6a8e-4550-87fb-1a138386700a
+[23:51:06] [Server thread/INFO]: cest_la_vieeee joined the game
+[23:51:06] [Server thread/INFO]: cest_la_vieeee[/137.25.71.149:61231] logged in with entity id 24007 at ([world]2878.8605281807586, 111.31394129652145, 3838.8513389781597)
+[23:51:23] [Server thread/INFO]: cest_la_vieeee issued server command: /kill
+[23:51:23] [Server thread/INFO]: cest_la_vieeee fell out of the world
+[23:51:23] [Server thread/INFO]: [cest_la_vieeee: Killed cest_la_vieeee]
+[23:51:33] [Server thread/INFO]: cest_la_vieeee issued server command: /
+[23:51:40] [Server thread/INFO]: cest_la_vieeee issued server command: /kill
+[23:51:40] [Server thread/INFO]: cest_la_vieeee fell out of the world
+[23:51:40] [Server thread/INFO]: [cest_la_vieeee: Killed cest_la_vieeee]
+[23:52:04] [Server thread/INFO]: cest_la_vieeee has made the advancement [Diamonds!]
+[23:52:10] [Server thread/INFO]: cest_la_vieeee has made the advancement [Suit Up]
+[23:52:22] [Server thread/INFO]: cest_la_vieeee has made the advancement [Isn't It Iron Pick]
+[23:53:13] [Server thread/INFO]: cest_la_vieeee has made the advancement [Stone Age]
+[23:56:41] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -331 12 184
+[23:57:13] [Server thread/INFO]: cest_la_vieeee issued server command: /fill -331 12 184 -533 12 184 minecraft:air

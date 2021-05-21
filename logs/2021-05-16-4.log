@@ -1,0 +1,239 @@
+[23:42:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:42:50] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[23:42:50] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:42:51] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:42:51] [Server thread/INFO]: Loading properties
+[23:42:51] [Server thread/INFO]: This server is running Paper version git-Paper-686 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[23:42:51] [Server thread/INFO]: Debug logging is disabled
+[23:42:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:42:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:42:51] [Server thread/INFO]: Default game type: SURVIVAL
+[23:42:51] [Server thread/INFO]: Generating keypair
+[23:42:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:42:52] [Server thread/INFO]: Using epoll channel type
+[23:42:52] [Server thread/ERROR]: Could not load 'plugins/LuckPerms-Bukkit-5.2.92.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.ExceptionInInitializerError
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:151) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:397) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:305) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.<init>(LPBukkitBootstrap.java:103) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:350) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:642) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:94) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make protected void java.net.URLClassLoader.addURL(java.net.URL) accessible: module java.base does not "opens java.net" to unnamed module @6320dab
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:357) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297) ~[?:?]
+	at java.lang.reflect.Method.checkCanSetAccessible(Method.java:199) ~[?:?]
+	at java.lang.reflect.Method.setAccessible(Method.java:193) ~[?:?]
+	at me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader.<clinit>(ReflectionClassLoader.java:53) ~[?:?]
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.<init>(LPBukkitBootstrap.java:103) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:350) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:642) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:94) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+[23:42:52] [Server thread/ERROR]: Could not load 'plugins/worldedit-bukkit-7.2.2-dist.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/ReflectionUtil
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:151) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:397) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:305) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/ReflectionUtil
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getContext(Log4jLoggerFactory.java:42) ~[?:?]
+	at org.apache.logging.log4j.spi.AbstractLoggerAdapter.getLogger(AbstractLoggerAdapter.java:46) ~[patched_1.16.5.jar:git-Paper-686]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getLogger(Log4jLoggerFactory.java:29) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:358) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383) ~[?:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.<clinit>(WorldEditPlugin.java:113) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:466) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+Caused by: java.lang.ClassNotFoundException: org.apache.logging.log4j.util.ReflectionUtil
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:153) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:114) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:519) ~[?:?]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getContext(Log4jLoggerFactory.java:42) ~[?:?]
+	at org.apache.logging.log4j.spi.AbstractLoggerAdapter.getLogger(AbstractLoggerAdapter.java:46) ~[patched_1.16.5.jar:git-Paper-686]
+	at com.sk89q.worldedit.log4jbridge.Log4jLoggerFactory.getLogger(Log4jLoggerFactory.java:29) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:358) ~[?:?]
+	at com.sk89q.worldedit.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383) ~[?:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.<clinit>(WorldEditPlugin.java:113) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:466) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:82) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:147) ~[patched_1.16.5.jar:git-Paper-686]
+	... 7 more
+[23:42:52] [Server thread/ERROR]: Could not load 'plugins/worldguard-bukkit-7.0.4.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Please download and install WorldEdit to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.16.5.jar:git-Paper-686]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:392) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:252) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1066) ~[patched_1.16.5.jar:git-Paper-686]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:290) ~[patched_1.16.5.jar:git-Paper-686]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[23:42:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:42:52] [Server thread/INFO]: Preparing level "world"
+[23:42:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:42:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:42:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[23:42:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:42:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:42:52] [Server thread/INFO]: Max TNT Explosions: 0
+[23:42:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:42:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:42:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:42:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:42:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:42:52] [Server thread/INFO]: View Distance: 10
+[23:42:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:42:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:42:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:42:52] [Server thread/INFO]: Mob Spawn Range: 6
+[23:42:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:42:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:42:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[23:42:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:42:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:42:52] [Server thread/INFO]: Max TNT Explosions: 0
+[23:42:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:42:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:42:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:42:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:42:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:42:52] [Server thread/INFO]: View Distance: 10
+[23:42:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:42:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:42:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:42:52] [Server thread/INFO]: Mob Spawn Range: 6
+[23:42:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:42:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:42:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:42:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[23:42:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:42:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:42:52] [Server thread/INFO]: Max TNT Explosions: 0
+[23:42:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:42:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:42:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:42:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:42:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:42:52] [Server thread/INFO]: View Distance: 10
+[23:42:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:42:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:42:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:42:52] [Server thread/INFO]: Mob Spawn Range: 6
+[23:42:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:42:52] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[23:42:52] [Server thread/INFO]: Preparing spawn area: 0%
+[23:42:52] [Server thread/INFO]: Time elapsed: 282 ms
+[23:42:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:42:53] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[23:42:53] [Server thread/INFO]: Preparing spawn area: 0%
+[23:42:53] [Server thread/INFO]: Preparing spawn area: 19%
+[23:42:53] [Server thread/INFO]: Time elapsed: 787 ms
+[23:42:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:42:53] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[23:42:53] [Server thread/INFO]: Time elapsed: 106 ms
+[23:42:53] [Server thread/INFO]: Starting remote control listener
+[23:42:53] [Server thread/INFO]: Thread RCON Listener started
+[23:42:53] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[23:42:53] [Server thread/INFO]: Running delayed init tasks
+[23:42:53] [Server thread/INFO]: Done (2.098s)! For help, type "help"
+[23:42:53] [Server thread/INFO]: Timings Reset
+[23:43:16] [User Authenticator #1/INFO]: UUID of player tanyaodora12 is 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+[23:43:16] [Server thread/INFO]: tanyaodora12 joined the game
+[23:43:16] [Server thread/INFO]: tanyaodora12[/192.168.1.199:3082] logged in with entity id 147 at ([world]-84.94093420786466, 125.65483716531985, 618.4065545709524)
+[23:45:43] [Server thread/INFO]: tanyaodora12 lost connection: Disconnected
+[23:45:43] [Server thread/INFO]: tanyaodora12 left the game
+[23:45:51] [User Authenticator #2/INFO]: UUID of player tanyaodora12 is 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+[23:45:51] [Server thread/INFO]: tanyaodora12 joined the game
+[23:45:51] [Server thread/INFO]: tanyaodora12[/192.168.1.199:3109] logged in with entity id 779 at ([world]-137.75678933341564, 78.56350477424301, 590.3645569339212)
+[23:47:01] [Server thread/INFO]: Attempting to restart with ./start.sh
+[23:47:01] [Server thread/INFO]: tanyaodora12 lost connection: Server is restarting
+[23:47:01] [Server thread/INFO]: tanyaodora12 left the game
+[23:47:01] [Server thread/INFO]: Stopping server
+[23:47:01] [Server thread/INFO]: Saving players
+[23:47:01] [Server thread/INFO]: Saving worlds
+[23:47:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:47:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:47:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:47:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:03] [Server thread/INFO]: Flushing Chunk IO
+[23:47:03] [Server thread/INFO]: Closing Thread Pool
+[23:47:03] [Server thread/INFO]: Closing Server

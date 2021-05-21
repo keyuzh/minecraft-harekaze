@@ -1,0 +1,388 @@
+[00:10:33] [User Authenticator #8/INFO]: UUID of player mio_oda is 08febcc4-49ee-492a-8227-82f8c30ea6b3
+[00:10:33] [Server thread/INFO]: mio_oda joined the game
+[00:10:33] [Server thread/INFO]: mio_oda[/101.228.29.72:11154] logged in with entity id 68138 at ([world]-253.7594702602116, 72.0, -574.484265154763)
+[00:11:44] [Server thread/INFO]: mio_oda issued server command: /gamemode creative
+[00:11:44] [Server thread/INFO]: [mio_oda: Set own game mode to Creative Mode]
+[00:15:16] [Server thread/INFO]: mio_oda issued server command: /time set day
+[00:15:16] [Server thread/INFO]: [mio_oda: Set the time to 1000]
+[00:17:09] [Server thread/INFO]: Villager EntityVillager['Villager'/75297, uuid='d0e62ed3-9e21-48b7-9459-a502ee69b0fe', l='ServerLevel[world]', x=-2265.70, y=79.00, z=-1877.40, cx=-142, cz=-118, tl=204, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[00:18:03] [Server thread/INFO]: mio_oda issued server command: /weather clea
+[00:18:06] [Server thread/INFO]: mio_oda issued server command: /weather clear
+[00:18:06] [Server thread/INFO]: [mio_oda: Set the weather to clear]
+[00:26:28] [Server thread/INFO]: mio_oda issued server command: /gamemode survival
+[00:26:28] [Server thread/INFO]: [mio_oda: Set own game mode to Survival Mode]
+[00:26:40] [Server thread/INFO]: mio_oda has made the advancement [Diamonds!]
+[00:26:40] [Server thread/INFO]: mio_oda has made the advancement [Suit Up]
+[00:28:40] [Server thread/INFO]: mio_oda lost connection: Disconnected
+[00:28:40] [Server thread/INFO]: mio_oda left the game
+[10:45:22] [User Authenticator #9/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[10:45:22] [Server thread/INFO]: 1XD233 joined the game
+[10:45:22] [Server thread/INFO]: 1XD233[/172.88.109.119:50827] logged in with entity id 89203 at ([world]-31.76046935322784, 67.0, 52.64608539532762)
+[10:58:14] [User Authenticator #10/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[10:58:14] [Server thread/INFO]: LSFG joined the game
+[10:58:14] [Server thread/INFO]: LSFG[/104.172.46.77:49382] logged in with entity id 91554 at ([world]-23.640412228933382, 68.0, 62.37053477466548)
+[10:58:34] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[10:58:34] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[10:58:38] [Server thread/INFO]: 1XD233 issued server command: /
+[10:58:40] [Async Chat Thread - #9/INFO]: <1XD233> ?
+[10:58:58] [Async Chat Thread - #9/INFO]: <1XD233> ni you kai le?
+[10:59:04] [Async Chat Thread - #9/INFO]: <LSFG> 我没啊
+[10:59:39] [Async Chat Thread - #9/INFO]: <LSFG> 一进来就是观察者
+[10:59:45] [Async Chat Thread - #9/INFO]: <LSFG> 不知道为啥
+[10:59:54] [Async Chat Thread - #9/INFO]: <1XD233> enenen
+[11:01:20] [Server thread/INFO]: LSFG was blown up by Creeper
+[11:01:48] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[11:01:48] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[11:02:13] [Async Chat Thread - #10/INFO]: <1XD233> zhe bu jiu shi kai le?
+[11:02:22] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[11:02:22] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[11:03:32] [Async Chat Thread - #11/INFO]: <LSFG> 我去找我死哪了
+[11:03:40] [Async Chat Thread - #11/INFO]: <1XD233> na ye suan
+[11:04:23] [Async Chat Thread - #11/INFO]: <LSFG> can u sleep
+[11:04:29] [Async Chat Thread - #11/INFO]: <LSFG> i need to build a house
+[11:04:37] [Async Chat Thread - #11/INFO]: <1XD233> no
+[11:09:03] [Async Chat Thread - #12/INFO]: <LSFG> 我去找风水宝地了
+[11:09:14] [Async Chat Thread - #12/INFO]: <1XD233> k
+[11:19:56] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[11:19:56] [Server thread/INFO]: 1XD233 left the game
+[11:20:16] [User Authenticator #11/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[11:20:16] [Server thread/INFO]: 1XD233 joined the game
+[11:20:16] [Server thread/INFO]: 1XD233[/172.88.109.119:51038] logged in with entity id 98920 at ([world]793.3000000119209, 24.0, -455.33603040478545)
+[11:22:05] [Async Chat Thread - #13/INFO]: <LSFG> 我找到沙漠村庄了
+[11:32:07] [Async Chat Thread - #14/INFO]: <1XD233> cha dian bei meng si
+[11:32:33] [Async Chat Thread - #14/INFO]: <LSFG> zhao bu dao hao di fang
+[11:32:57] [Async Chat Thread - #14/INFO]: <LSFG> ni tm lai bang mang
+[11:33:25] [Async Chat Thread - #14/INFO]: <1XD233> k
+[11:33:39] [Async Chat Thread - #14/INFO]: <LSFG> can u sleep?
+[11:33:55] [Async Chat Thread - #14/INFO]: <1XD233> im going home rn
+[11:34:00] [Async Chat Thread - #14/INFO]: <LSFG> k
+[11:37:48] [Async Chat Thread - #15/INFO]: <LSFG> 天都快亮了
+[11:37:51] [Async Chat Thread - #15/INFO]: <LSFG> nmd
+[11:38:00] [Async Chat Thread - #15/INFO]: <1XD233> sleep\
+[11:38:22] [Async Chat Thread - #15/INFO]: <LSFG> 找平原啊
+[11:38:35] [Async Chat Thread - #15/INFO]: <1XD233> ping yuan bushi zai chu sheng di pangbian me
+[11:38:45] [Async Chat Thread - #15/INFO]: <LSFG> 平nm
+[11:38:52] [Async Chat Thread - #15/INFO]: <LSFG> 全是坑
+[11:39:00] [Async Chat Thread - #15/INFO]: <1XD233> ?
+[11:40:33] [Async Chat Thread - #16/INFO]: <LSFG> 我要建大房子
+[11:41:41] [Async Chat Thread - #17/INFO]: <LSFG> 那就指令填喽
+[11:41:51] [Async Chat Thread - #17/INFO]: <1XD233> ?
+[11:41:55] [Async Chat Thread - #17/INFO]: <1XD233> no nigga
+[11:43:10] [Async Chat Thread - #18/INFO]: <LSFG> yes nigga
+[11:43:39] [Async Chat Thread - #18/INFO]: <LSFG> 我建房子地都有可能不够
+[11:43:49] [Async Chat Thread - #18/INFO]: <1XD233> pussy use demand
+[11:43:51] [Async Chat Thread - #18/INFO]: <LSFG> 别说murphy他们呢
+[11:44:21] [Async Chat Thread - #18/INFO]: <1XD233> 那你在哪建
+[11:44:22] [Async Chat Thread - #18/INFO]: <LSFG> 给你2颗砖石你去挖去
+[11:44:27] [Async Chat Thread - #18/INFO]: <1XD233> 滚
+[11:44:35] [Async Chat Thread - #18/INFO]: <1XD233> 你有即可
+[11:44:41] [Async Chat Thread - #18/INFO]: <LSFG> 5
+[11:44:49] [Async Chat Thread - #18/INFO]: <1XD233> 我都9了
+[11:44:52] [Async Chat Thread - #18/INFO]: <1XD233> 菜
+[11:45:11] [Async Chat Thread - #18/INFO]: <LSFG> wo zai zhao feng shui bao di
+[11:45:21] [Async Chat Thread - #18/INFO]: <1XD233> dont make excuse
+[11:45:44] [Async Chat Thread - #18/INFO]: <LSFG> wo shi zhao diamond king
+[11:45:58] [Async Chat Thread - #18/INFO]: <1XD233> more like garbage king
+[11:45:59] [Async Chat Thread - #18/INFO]: <LSFG> ban zu dou shi shun bian
+[11:50:00] [Async Chat Thread - #19/INFO]: <LSFG> can u sleep?
+[11:50:20] [Async Chat Thread - #19/INFO]: <1XD233> k
+[11:50:39] [Async Chat Thread - #19/INFO]: <LSFG> k?
+[11:51:41] [Async Chat Thread - #20/INFO]: <LSFG> 你自己过来看
+[11:51:47] [Async Chat Thread - #20/INFO]: <LSFG> 全是坑
+[11:53:43] [Async Chat Thread - #21/INFO]: <1XD233> 反正我住河边
+[12:01:28] [Async Chat Thread - #22/INFO]: <1XD233> lunch time
+[12:01:29] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[12:01:29] [Server thread/INFO]: 1XD233 left the game
+[12:02:45] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[12:02:45] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[12:03:26] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[12:03:26] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[12:05:52] [Server thread/INFO]: LSFG issued server command: /fill -163 71 64 -229 69 118 minecraft:grass_block
+[12:05:52] [Server thread/INFO]: [LSFG: Successfully filled 7840 blocks]
+[12:10:00] [User Authenticator #12/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[12:10:01] [Server thread/INFO]: 1XD233 joined the game
+[12:10:01] [Server thread/INFO]: 1XD233[/172.88.109.119:51476] logged in with entity id 116045 at ([world]-31.3632438802625, 67.0, 51.891518170834516)
+[12:11:10] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[12:11:10] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[12:11:18] [Async Chat Thread - #23/INFO]: <1XD233> no bitch
+[12:11:30] [Async Chat Thread - #23/INFO]: <1XD233> stop cheating
+[12:11:38] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[12:11:38] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[12:11:41] [Async Chat Thread - #23/INFO]: <LSFG> nmd
+[12:11:50] [Async Chat Thread - #23/INFO]: <LSFG> 看一下地
+[12:13:30] [Async Chat Thread - #24/INFO]: <LSFG> sleep
+[12:14:18] [Server thread/WARN]: Boat (vehicle of 1XD233) moved wrongly! 0.3729542045528961
+[12:16:04] [Async Chat Thread - #25/INFO]: <LSFG> cao
+[12:16:13] [Async Chat Thread - #25/INFO]: <LSFG> 被苦力怕了
+[12:18:44] [Server thread/INFO]: 1XD233 has made the advancement [Best Friends Forever]
+[12:25:11] [Async Chat Thread - #26/INFO]: <LSFG> sleep
+[12:25:13] [Async Chat Thread - #26/INFO]: <LSFG> bich
+[12:27:59] [Server thread/INFO]: LSFG issued server command: /fill -229 71 93 -277 70 126 minecraft:grass_block
+[12:27:59] [Server thread/INFO]: [LSFG: Successfully filled 2710 blocks]
+[12:28:06] [Async Chat Thread - #27/INFO]: <1XD233> ?
+[12:28:14] [Async Chat Thread - #27/INFO]: <1XD233> what a bitch
+[12:32:58] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[12:32:58] [Server thread/INFO]: 1XD233 left the game
+[12:38:17] [User Authenticator #13/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[12:38:18] [Server thread/INFO]: 1XD233 joined the game
+[12:38:18] [Server thread/INFO]: 1XD233[/172.88.109.119:51757] logged in with entity id 121329 at ([world]-109.72693330667536, 38.0, 88.212275864422)
+[12:40:18] [Server thread/INFO]: LSFG issued server command: /fill -227 71 121 -181 71 145 minecraft:grass_block
+[12:40:18] [Server thread/INFO]: [LSFG: Successfully filled 1158 blocks]
+[12:42:55] [Server thread/INFO]: LSFG issued server command: /fill -182 71 130 -231 68 170 minecraft:grass_block
+[12:42:55] [Server thread/INFO]: [LSFG: Successfully filled 6308 blocks]
+[12:43:48] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 64
+[12:43:48] [Server thread/INFO]: [LSFG: Gave 64 [Grass Block] to LSFG]
+[12:44:59] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 130
+[12:44:59] [Server thread/INFO]: [LSFG: Gave 130 [Grass Block] to LSFG]
+[12:47:17] [Async Chat Thread - #28/INFO]: <LSFG> sleep
+[12:47:26] [Async Chat Thread - #28/INFO]: <1XD233> cant
+[12:47:41] [Async Chat Thread - #28/INFO]: <LSFG> ?
+[12:47:49] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[12:47:49] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[12:47:49] [Server thread/INFO]: 1XD233 left the game
+[12:47:49] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[12:47:54] [User Authenticator #14/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[12:47:54] [Server thread/INFO]: 1XD233 joined the game
+[12:47:54] [Server thread/INFO]: 1XD233[/172.88.109.119:51808] logged in with entity id 122953 at ([world]-118.61305365929968, 23.0, -3.729809159303027)
+[12:48:00] [Async Chat Thread - #28/INFO]: <1XD233> ?
+[12:48:09] [Async Chat Thread - #28/INFO]: <LSFG> 你退了就好了
+[12:48:15] [Async Chat Thread - #28/INFO]: <1XD233> 你创造得了
+[12:48:33] [Async Chat Thread - #28/INFO]: <LSFG> that is cheating
+[12:48:52] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 130
+[12:48:52] [Server thread/INFO]: [LSFG: Gave 130 [Grass Block] to LSFG]
+[12:50:59] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[12:50:59] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[12:53:59] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[12:53:59] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[12:56:55] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 300
+[12:56:55] [Server thread/INFO]: [LSFG: Gave 300 [Grass Block] to LSFG]
+[12:59:28] [Async Chat Thread - #29/INFO]: <LSFG> sleep
+[12:59:31] [Async Chat Thread - #29/INFO]: <1XD233> cant
+[12:59:35] [Async Chat Thread - #29/INFO]: <LSFG> quit
+[12:59:43] [Async Chat Thread - #29/INFO]: <1XD233> u change the time
+[12:59:49] [Async Chat Thread - #29/INFO]: <LSFG> thats cheating
+[12:59:52] [Async Chat Thread - #29/INFO]: <LSFG> u quit
+[13:00:09] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[13:00:09] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[13:00:09] [Server thread/INFO]: 1XD233 left the game
+[13:00:09] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[13:00:10] [User Authenticator #15/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[13:00:10] [Server thread/INFO]: 1XD233 joined the game
+[13:00:10] [Server thread/INFO]: 1XD233[/172.88.109.119:51873] logged in with entity id 125118 at ([world]-101.21907334962538, 15.0, 131.78486404023454)
+[13:00:17] [Async Chat Thread - #29/INFO]: <1XD233> nc?
+[13:00:22] [Async Chat Thread - #29/INFO]: <1XD233> zi ji tiao shi jian qu
+[13:00:33] [Async Chat Thread - #29/INFO]: <LSFG> no
+[13:00:39] [Async Chat Thread - #29/INFO]: <LSFG> thats cheating ass
+[13:00:50] [Async Chat Thread - #29/INFO]: <1XD233> bie e xing ren
+[13:02:26] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 400
+[13:02:26] [Server thread/INFO]: [LSFG: Gave 400 [Grass Block] to LSFG]
+[13:07:45] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[13:07:45] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[13:08:23] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[13:08:23] [Server thread/INFO]: 1XD233 left the game
+[13:10:39] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[13:10:39] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[13:11:03] [Server thread/INFO]: LSFG issued server command: /time set 1
+[13:11:03] [Server thread/INFO]: [LSFG: Set the time to 1]
+[13:14:23] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[13:14:23] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[13:17:21] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 100
+[13:17:21] [Server thread/INFO]: [LSFG: Gave 100 [Grass Block] to LSFG]
+[13:21:54] [Server thread/INFO]: LSFG issued server command: /gamemode spectator
+[13:21:54] [Server thread/INFO]: [LSFG: Set own game mode to Spectator Mode]
+[13:22:08] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[13:22:08] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[13:38:25] [User Authenticator #16/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[13:38:25] [Server thread/INFO]: 1XD233 joined the game
+[13:38:25] [Server thread/INFO]: 1XD233[/172.88.109.119:53936] logged in with entity id 130437 at ([world]-36.30000001192092, 15.0, 137.15320317356642)
+[13:41:45] [Server thread/INFO]: LSFG issued server command: /
+[13:41:54] [Async Chat Thread - #30/INFO]: <LSFG> 你要当黑奴马
+[13:42:00] [Async Chat Thread - #30/INFO]: <1XD233> bu
+[13:42:09] [Async Chat Thread - #30/INFO]: <1XD233> im rich rich
+[13:44:23] [Async Chat Thread - #31/INFO]: <LSFG> sleep
+[13:44:40] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[13:44:40] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[13:44:40] [Server thread/INFO]: 1XD233 left the game
+[13:44:40] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[13:44:44] [User Authenticator #17/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[13:44:44] [Server thread/INFO]: 1XD233 joined the game
+[13:44:44] [Server thread/INFO]: 1XD233[/172.88.109.119:53965] logged in with entity id 132180 at ([world]-25.5, 68.875, 62.5)
+[13:52:27] [Server thread/INFO]: LSFG lost connection: Disconnected
+[13:52:27] [Server thread/INFO]: LSFG left the game
+[14:29:23] [Server thread/INFO]: 1XD233 has made the advancement [Cover Me With Diamonds]
+[14:30:24] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[14:30:24] [Server thread/INFO]: 1XD233 left the game
+[15:00:33] [User Authenticator #18/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[15:00:33] [Server thread/INFO]: LSFG joined the game
+[15:00:33] [Server thread/INFO]: LSFG[/104.172.46.77:59563] logged in with entity id 137396 at ([world]-186.4040841412754, 71.0, 50.93606286575893)
+[15:00:48] [Server thread/INFO]: LSFG lost connection: Disconnected
+[15:00:48] [Server thread/INFO]: LSFG left the game
+[15:09:04] [User Authenticator #19/INFO]: UUID of player tanyaodora12 is 9c73ef30-92ce-49a8-bfff-89ae67d0649c
+[15:09:04] [Server thread/INFO]: tanyaodora12 joined the game
+[15:09:04] [Server thread/INFO]: tanyaodora12[/192.168.1.199:6440] logged in with entity id 137468 at ([world]-184.0821530408641, 80.06933201401131, -17.980109985768173)
+[15:12:52] [Server thread/INFO]: tanyaodora12 lost connection: Disconnected
+[15:12:52] [Server thread/INFO]: tanyaodora12 left the game
+[15:52:54] [User Authenticator #20/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[15:52:54] [Server thread/INFO]: LSFG joined the game
+[15:52:54] [Server thread/INFO]: LSFG[/104.172.46.77:61356] logged in with entity id 142149 at ([world]-186.08900207622185, 71.5625, 46.05826708760285)
+[15:55:03] [Server thread/INFO]: LSFG issued server command: /time set 1
+[15:55:03] [Server thread/INFO]: [LSFG: Set the time to 1]
+[16:04:28] [Server thread/INFO]: LSFG issued server command: /clear
+[16:04:28] [Server thread/INFO]: [LSFG: Removed 2046 items from player LSFG]
+[16:05:58] [Server thread/INFO]: LSFG issued server command: /weather clear
+[16:05:58] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[16:06:01] [Server thread/INFO]: LSFG issued server command: /time set 1
+[16:06:01] [Server thread/INFO]: [LSFG: Set the time to 1]
+[16:26:05] [Server thread/INFO]: LSFG issued server command: /fill -187 66 95 -195 69 111 air
+[16:26:05] [Server thread/INFO]: [LSFG: Successfully filled 401 blocks]
+[16:28:26] [Server thread/INFO]: LSFG issued server command: /fill -187 65 95 -195 65 111 minecraft:grass_block
+[16:28:26] [Server thread/INFO]: [LSFG: Successfully filled 153 blocks]
+[16:29:47] [Server thread/INFO]: LSFG issued server command: /time set day
+[16:29:47] [Server thread/INFO]: [LSFG: Set the time to 1000]
+[16:31:32] [User Authenticator #21/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[16:31:32] [Server thread/INFO]: 1XD233 joined the game
+[16:31:32] [Server thread/INFO]: 1XD233[/172.88.109.119:55411] logged in with entity id 148212 at ([world]-32.13407239498146, 67.0, 52.56711389617671)
+[16:31:41] [Server thread/INFO]: LSFG issued server command: /fill -196 65 99 -206 68 107 air
+[16:31:41] [Server thread/INFO]: [LSFG: Successfully filled 353 blocks]
+[16:33:14] [Async Chat Thread - #32/INFO]: <LSFG> 送你那些土块建房子呢
+[16:34:38] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 64
+[16:34:38] [Server thread/INFO]: [LSFG: Gave 64 [Grass Block] to LSFG]
+[16:37:36] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 190
+[16:37:36] [Server thread/INFO]: [LSFG: Gave 190 [Grass Block] to LSFG]
+[16:40:05] [Async Chat Thread - #33/INFO]: <LSFG> sleep
+[16:40:22] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[16:40:22] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[16:40:22] [Server thread/INFO]: 1XD233 left the game
+[16:40:22] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[16:40:24] [User Authenticator #22/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[16:40:24] [Server thread/INFO]: 1XD233 joined the game
+[16:40:24] [Server thread/INFO]: 1XD233[/172.88.109.119:55501] logged in with entity id 149833 at ([world]-81.53790194345396, 61.994864751548874, 58.21530751910078)
+[16:44:07] [Server thread/WARN]: Horse (vehicle of 1XD233) moved wrongly! 0.3489300553694025
+[16:46:52] [Async Chat Thread - #34/INFO]: <LSFG> 你建房子了没
+[16:46:57] [Async Chat Thread - #34/INFO]: <1XD233> mei
+[16:47:03] [Async Chat Thread - #34/INFO]: <LSFG> ok homeless
+[16:50:26] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[16:50:26] [Server thread/INFO]: 1XD233 left the game
+[16:50:57] [Server thread/INFO]: LSFG issued server command: /time set 1
+[16:50:57] [Server thread/INFO]: [LSFG: Set the time to 1]
+[16:54:09] [Server thread/INFO]: LSFG issued server command: /fill -213 66 124 -221 69 114 air
+[16:54:09] [Server thread/INFO]: [LSFG: Successfully filled 270 blocks]
+[16:55:59] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 130
+[16:55:59] [Server thread/INFO]: [LSFG: Gave 130 [Grass Block] to LSFG]
+[16:58:45] [Server thread/INFO]: LSFG issued server command: /fill -214 65 115 -219 65 122 minecraft:grass_block
+[16:58:45] [Server thread/INFO]: [LSFG: Successfully filled 40 blocks]
+[17:00:43] [Server thread/INFO]: LSFG issued server command: /fill -209 66 125 -225 69 133 air
+[17:00:43] [Server thread/INFO]: [LSFG: Successfully filled 443 blocks]
+[17:01:38] [Server thread/INFO]: LSFG issued server command: /time set 1
+[17:01:38] [Server thread/INFO]: [LSFG: Set the time to 1]
+[17:02:34] [Server thread/INFO]: LSFG issued server command: /fill -225 65 133 -209 65 125 minecraft:grass_block
+[17:02:34] [Server thread/INFO]: [LSFG: Successfully filled 153 blocks]
+[17:05:26] [Server thread/INFO]: LSFG issued server command: /fill -213 69 92 -221 69 82 air
+[17:05:26] [Server thread/INFO]: [LSFG: Successfully filled 11 blocks]
+[17:06:16] [Server thread/INFO]: LSFG issued server command: /fill -213 65 92 -221 69 82 air
+[17:06:16] [Server thread/INFO]: [LSFG: Successfully filled 407 blocks]
+[17:07:21] [User Authenticator #23/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[17:07:21] [Server thread/INFO]: 1XD233 joined the game
+[17:07:21] [Server thread/INFO]: 1XD233[/172.88.109.119:55757] logged in with entity id 153578 at ([world]-104.11117195664387, 72.0, 0.4217966179378801)
+[17:09:24] [Server thread/INFO]: LSFG issued server command: /sleep
+[17:09:27] [Async Chat Thread - #35/INFO]: <LSFG> sleep
+[17:09:36] [Async Chat Thread - #35/INFO]: <1XD233> wo yao da guai
+[17:09:45] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[17:09:45] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[17:09:45] [Server thread/INFO]: 1XD233 left the game
+[17:09:45] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[17:09:47] [User Authenticator #24/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[17:09:47] [Server thread/INFO]: 1XD233 joined the game
+[17:09:47] [Server thread/INFO]: 1XD233[/172.88.109.119:55783] logged in with entity id 154038 at ([world]-106.74671129404987, 76.04289683901332, 51.28058159412529)
+[17:10:08] [Server thread/INFO]: 1XD233 issued server command: /time set night
+[17:10:08] [Server thread/INFO]: [1XD233: Set the time to 13000]
+[17:10:22] [Async Chat Thread - #35/INFO]: <LSFG> stop cheating
+[17:10:27] [Async Chat Thread - #35/INFO]: <LSFG> u dirty ass
+[17:11:24] [Server thread/INFO]: LSFG issued server command: /kick 1xd233
+[17:11:24] [Server thread/INFO]: 1XD233 lost connection: Kicked by an operator
+[17:11:24] [Server thread/INFO]: 1XD233 left the game
+[17:11:24] [Server thread/INFO]: [LSFG: Kicked 1XD233: Kicked by an operator]
+[17:11:25] [User Authenticator #25/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[17:11:26] [Server thread/INFO]: 1XD233 joined the game
+[17:11:26] [Server thread/INFO]: 1XD233[/172.88.109.119:55802] logged in with entity id 154280 at ([world]-89.31181427353295, 62.0, -5.1096381845835355)
+[17:11:32] [Server thread/INFO]: 1XD233 issued server command: /ban LSFG
+[17:11:32] [Server thread/INFO]: [1XD233: Banned LSFG: Banned by an operator.]
+[17:11:32] [Server thread/INFO]: LSFG lost connection: You are banned from this server
+[17:11:32] [Server thread/INFO]: LSFG left the game
+[17:11:35] [User Authenticator #25/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:11:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@61ba4dad[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@766396b1]},legacy=false] (/104.172.46.77:54411): You are banned from this server.
+Reason: Banned by an operator.
+[17:11:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@61ba4dad[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@766396b1]},legacy=false] (/104.172.46.77:54411) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:11:42] [User Authenticator #25/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:11:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6e00ccf5[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@3ce928b]},legacy=false] (/104.172.46.77:54450): You are banned from this server.
+Reason: Banned by an operator.
+[17:11:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e00ccf5[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@3ce928b]},legacy=false] (/104.172.46.77:54450) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:12:12] [User Authenticator #25/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:12:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@41a435b[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@73f77d90]},legacy=false] (/104.172.46.77:54612): You are banned from this server.
+Reason: Banned by an operator.
+[17:12:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@41a435b[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@73f77d90]},legacy=false] (/104.172.46.77:54612) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:12:45] [User Authenticator #25/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:12:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@83197af[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@17110cc6]},legacy=false] (/104.172.46.77:54808): You are banned from this server.
+Reason: Banned by an operator.
+[17:12:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@83197af[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@17110cc6]},legacy=false] (/104.172.46.77:54808) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:14:26] [User Authenticator #26/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:14:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5006cddd[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@2a423288]},legacy=false] (/104.172.46.77:55339): You are banned from this server.
+Reason: Banned by an operator.
+[17:14:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@5006cddd[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@2a423288]},legacy=false] (/104.172.46.77:55339) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:15:29] [User Authenticator #27/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:15:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b26d1ca[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@6af13916]},legacy=false] (/104.172.46.77:55786): You are banned from this server.
+Reason: Banned by an operator.
+[17:15:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b26d1ca[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@6af13916]},legacy=false] (/104.172.46.77:55786) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:16:21] [User Authenticator #27/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:16:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6725fefe[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@523e6605]},legacy=false] (/104.172.46.77:56068): You are banned from this server.
+Reason: Banned by an operator.
+[17:16:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@6725fefe[id=331e3c9e-6f0c-4ea7-a96e-f6c99aa76739,name=LSFG,properties={textures=[com.mojang.authlib.properties.Property@523e6605]},legacy=false] (/104.172.46.77:56068) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17:17:59] [Server thread/INFO]: Unbanned LSFG
+[17:18:36] [User Authenticator #28/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[17:18:36] [Server thread/INFO]: LSFG joined the game
+[17:18:36] [Server thread/INFO]: LSFG[/104.172.46.77:56771] logged in with entity id 155168 at ([world]-211.03892987650528, 73.56904711312373, 83.93397028931383)
+[17:21:29] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[17:21:29] [Server thread/INFO]: 1XD233 left the game
+[17:22:27] [Server thread/INFO]: LSFG issued server command: /fill -209 66 81 -225 69 73 air
+[17:22:27] [Server thread/INFO]: [LSFG: Successfully filled 404 blocks]
+[17:22:39] [Server thread/INFO]: LSFG issued server command: /time set 1
+[17:22:39] [Server thread/INFO]: [LSFG: Set the time to 1]
+[17:23:03] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[17:23:03] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[17:26:01] [Server thread/INFO]: LSFG issued server command: /fill -225 65 81 -209 65 73 minecraft:grass_block
+[17:26:01] [Server thread/INFO]: [LSFG: Successfully filled 151 blocks]
+[17:29:45] [Server thread/INFO]: LSFG issued server command: /fill -228 65 99 -238 68 107 air
+[17:29:45] [Server thread/INFO]: [LSFG: Successfully filled 351 blocks]
+[17:32:44] [Server thread/INFO]: There are 1 of a max of 16 players online: LSFG
+[17:33:36] [Server thread/INFO]: LSFG issued server command: /give lsfg minecraft:grass_block 200
+[17:33:36] [Server thread/INFO]: [LSFG: Gave 200 [Grass Block] to LSFG]
+[17:34:32] [Server thread/INFO]: LSFG issued server command: /time set 1
+[17:34:32] [Server thread/INFO]: [LSFG: Set the time to 1]
+[17:35:45] [Server thread/INFO]: LSFG issued server command: /fill -239 69 95 -274 65 111 air
+[17:35:45] [Server thread/INFO]: [LSFG: Successfully filled 2695 blocks]
+[17:35:53] [Server thread/INFO]: There are 1 of a max of 16 players online: LSFG
+[17:36:20] [Server thread/INFO]: Attempting to restart with ./start.sh
+[17:36:20] [Server thread/INFO]: LSFG lost connection: Server is restarting
+[17:36:20] [Server thread/INFO]: LSFG left the game
+[17:36:20] [Server thread/INFO]: Stopping server
+[17:36:20] [Server thread/INFO]: Saving players
+[17:36:21] [Server thread/INFO]: Saving worlds
+[17:36:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:21] [Server thread/INFO]: Flushing Chunk IO
+[17:36:21] [Server thread/INFO]: Closing Thread Pool
+[17:36:21] [Server thread/INFO]: Closing Server

@@ -1,0 +1,100 @@
+[00:01:43] [Server thread/INFO]: cest_la_vieeee lost connection: Disconnected
+[00:01:43] [Server thread/INFO]: cest_la_vieeee left the game
+[20:52:25] [User Authenticator #6/INFO]: UUID of player LSFG is 331e3c9e-6f0c-4ea7-a96e-f6c99aa76739
+[20:52:25] [Server thread/INFO]: LSFG joined the game
+[20:52:25] [Server thread/INFO]: LSFG[/104.172.46.77:65266] logged in with entity id 26614 at ([world]-216.5, 70.0, -89.5)
+[20:52:49] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[20:52:49] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[20:52:53] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[20:52:53] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[20:53:45] [Server thread/INFO]: LSFG was blown up by Creeper
+[20:54:37] [Server thread/INFO]: LSFG issued server command: /weather clear
+[20:54:37] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[20:54:40] [Server thread/INFO]: LSFG issued server command: /time set 1
+[20:54:40] [Server thread/INFO]: [LSFG: Set the time to 1]
+[20:55:00] [Server thread/INFO]: LSFG has made the advancement [Monster Hunter]
+[20:56:46] [Server thread/INFO]: LSFG has made the advancement [Stone Age]
+[20:57:01] [Server thread/INFO]: LSFG has made the advancement [Getting an Upgrade]
+[21:00:01] [Server thread/INFO]: LSFG was blown up by Creeper
+[21:01:48] [Server thread/INFO]: LSFG was shot by Skeleton
+[21:02:08] [Server thread/INFO]: LSFG issued server command: /weather clear
+[21:02:08] [Server thread/INFO]: [LSFG: Set the weather to clear]
+[21:02:15] [Server thread/INFO]: LSFG issued server command: /time set 1
+[21:02:15] [Server thread/INFO]: [LSFG: Set the time to 1]
+[21:06:32] [Server thread/INFO]: LSFG was shot by Skeleton
+[21:11:54] [User Authenticator #7/INFO]: UUID of player 1XD233 is ebb9b247-ad70-4392-b113-85b636847b91
+[21:11:54] [Server thread/INFO]: 1XD233 joined the game
+[21:11:54] [Server thread/INFO]: 1XD233[/172.88.109.119:56912] logged in with entity id 29077 at ([world]-214.5, 69.0, -89.5)
+[21:13:27] [Server thread/INFO]: LSFG has made the advancement [Acquire Hardware]
+[21:13:39] [Server thread/INFO]: LSFG has made the advancement [Isn't It Iron Pick]
+[21:15:27] [Server thread/INFO]: 1XD233 has made the advancement [Stone Age]
+[21:16:43] [Server thread/INFO]: 1XD233 has made the advancement [Getting an Upgrade]
+[21:21:36] [Server thread/INFO]: LSFG tried to swim in lava
+[21:23:47] [Server thread/INFO]: LSFG burned to death
+[21:30:11] [Async Chat Thread - #0/INFO]: <LSFG> 你咋不死啊
+[21:30:19] [Async Chat Thread - #0/INFO]: <1XD233> wan de bi ni hao
+[21:30:32] [Async Chat Thread - #0/INFO]: <1XD233> old top lane u know
+[21:32:01] [Async Chat Thread - #1/INFO]: <1XD233> can u sleep?
+[21:32:10] [Async Chat Thread - #1/INFO]: <LSFG> i refuse
+[21:40:06] [Async Chat Thread - #2/INFO]: <LSFG> is the sun out yet?
+[21:40:11] [Async Chat Thread - #2/INFO]: <1XD233> no
+[21:40:45] [Server thread/INFO]: LSFG has made the advancement [Suit Up]
+[21:41:03] [Async Chat Thread - #2/INFO]: <1XD233> is out now
+[21:42:35] [Server thread/INFO]: 1XD233 has made the advancement [Acquire Hardware]
+[21:43:18] [Server thread/INFO]: 1XD233 has made the advancement [Monster Hunter]
+[21:44:22] [Server thread/INFO]: LSFG has made the advancement [Not Today, Thank You]
+[21:45:39] [Server thread/INFO]: 1XD233 has made the advancement [Ice Bucket Challenge]
+[21:53:13] [Server thread/INFO]: 1XD233 has made the advancement [Isn't It Iron Pick]
+[21:54:57] [Async Chat Thread - #3/INFO]: <1XD233> can u sleep?
+[21:55:01] [Async Chat Thread - #3/INFO]: <LSFG> no
+[21:55:11] [Async Chat Thread - #3/INFO]: <LSFG> looking for diamond
+[21:55:41] [Server thread/INFO]: 1XD233 has made the advancement [Not Today, Thank You]
+[21:55:55] [Async Chat Thread - #3/INFO]: <LSFG> u r getting attacked
+[21:55:58] [Async Chat Thread - #3/INFO]: <LSFG> great
+[21:59:05] [Server thread/INFO]: 1XD233 has made the advancement [Diamonds!]
+[21:59:16] [Async Chat Thread - #4/INFO]: <1XD233> have fun finding diamonds
+[22:00:13] [Server thread/INFO]: 1XD233 has made the advancement [Sweet Dreams]
+[22:00:54] [Server thread/INFO]: 1XD233 has made the advancement [Fishy Business]
+[22:10:19] [Server thread/INFO]: LSFG was slain by Cave Spider
+[22:10:23] [Async Chat Thread - #5/INFO]: <1XD233> cai
+[22:10:30] [Async Chat Thread - #5/INFO]: <LSFG> there is a witch
+[22:10:38] [Async Chat Thread - #5/INFO]: <LSFG> posion
+[22:10:55] [Async Chat Thread - #5/INFO]: <LSFG> 外加刷怪笼
+[22:11:10] [Async Chat Thread - #5/INFO]: <LSFG> 什么逼运气今天
+[22:11:12] [Async Chat Thread - #5/INFO]: <1XD233> stfu u choose to go there
+[22:19:54] [Server thread/INFO]: LSFG has made the advancement [Sweet Dreams]
+[22:20:11] [Server thread/INFO]: Villager EntityVillager['Villager'/41178, uuid='11ed36ab-ed34-4a4e-801b-ed485b292018', l='ServerLevel[world]', x=164.45, y=66.00, z=194.06, cx=10, cz=12, tl=13175, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[22:20:22] [Async Chat Thread - #6/INFO]: <LSFG> i found the village
+[22:20:32] [Async Chat Thread - #6/INFO]: <LSFG> not far from your house
+[22:20:40] [Server thread/INFO]: Villager EntityVillager['Villager'/41220, uuid='63c09a67-6438-41da-a1d1-2a8d594735cf', l='ServerLevel[world]', x=183.79, y=55.00, z=205.70, cx=11, cz=12, tl=14337, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[22:20:46] [Async Chat Thread - #6/INFO]: <1XD233> u found my house?
+[22:20:57] [Async Chat Thread - #6/INFO]: <LSFG> the one on a island
+[22:24:48] [Server thread/WARN]: Boat (vehicle of LSFG) moved wrongly! 0.34830246848791546
+[22:24:48] [Server thread/WARN]: Boat (vehicle of LSFG) moved wrongly! 0.3479146939884714
+[22:24:48] [Server thread/WARN]: Boat (vehicle of LSFG) moved wrongly! 0.2875726079109313
+[22:36:22] [Async Chat Thread - #7/INFO]: <1XD233> 你把什么拿走了
+[22:36:28] [Async Chat Thread - #7/INFO]: <LSFG> fish
+[22:37:48] [Async Chat Thread - #8/INFO]: <LSFG> 我找到矿道了
+[22:37:59] [Async Chat Thread - #8/INFO]: <LSFG> 你来吗
+[22:38:02] [Async Chat Thread - #8/INFO]: <1XD233> 我不挖矿了
+[22:38:09] [Async Chat Thread - #8/INFO]: <1XD233> 都四个钻石了
+[22:38:52] [Async Chat Thread - #8/INFO]: <1XD233> where u live
+[22:39:04] [Async Chat Thread - #8/INFO]: <LSFG> no where
+[22:39:16] [Async Chat Thread - #8/INFO]: <1XD233> ok homeless
+[22:41:36] [Server thread/INFO]: 1XD233 lost connection: Disconnected
+[22:41:36] [Server thread/INFO]: 1XD233 left the game
+[22:48:19] [Server thread/INFO]: LSFG has made the advancement [Diamonds!]
+[23:05:22] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[23:05:22] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[23:05:44] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[23:05:44] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[23:06:35] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[23:06:35] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[23:07:03] [Server thread/INFO]: LSFG issued server command: /gamemode survival
+[23:07:03] [Server thread/INFO]: [LSFG: Set own game mode to Survival Mode]
+[23:08:28] [Server thread/INFO]: LSFG issued server command: /gamemode creative
+[23:08:28] [Server thread/INFO]: [LSFG: Set own game mode to Creative Mode]
+[23:11:04] [Server thread/INFO]: LSFG issued server command: /tp lsfg spwan
+[23:12:51] [Server thread/INFO]: LSFG issued server command: /tp lsfg spwanpoint
+[23:14:46] [Server thread/INFO]: LSFG lost connection: Disconnected
+[23:14:46] [Server thread/INFO]: LSFG left the game
